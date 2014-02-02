@@ -1,0 +1,3281 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="category" type="string" />
+      <attribute id="1" title="status" type="string" />
+      <attribute id="2" title="desc" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AIGHANDLER" label="AIGHANDLER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="WEALTHYCLUSTER" label="WEALTHYCLUSTER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="QUANTUMCOPPER" label="QUANTUMCOPPER">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="a.k.a the great firewall of earth (like the Great FIrewall of China)" />
+        </attvalues>
+      </node>
+      <node id="XCONCORD" label="XCONCORD">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="LOUDAUTO" label="LOUDAUTO">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An audio bug for a room. Implemented as an RF retro-reflector [[ANGRYNEIGHBOR]] family. It therefor requires a unit such as [[CTX4000]], to communicate back to the base" />
+        </attvalues>
+      </node>
+      <node id="DRAGONFLY" label="DRAGONFLY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="Byzantine" label="Byzantine" />
+      <node id="CW" label="CW">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="Continuous Wave aka [[CW]] is a continuous radio signal (like [[CTX4000]] or [[PHOTOANGLO]]) sent toward a target so that the reflected radio wave is modulated by the signal to intercept. It's the default interception mechanism of NSA for both voice, PS2 and USB keyboard keypresses, exfiltered data, network traffic and any kind of data the NSA is interested to extract from a target. It's a very advanced attack where a Radar sends a [[CW]] toward a target covertly equipped with a eavesdropping bug called a [[RETROREFLECTOR]] which will modulate the original [[CW]] signal and re-radiate this modulated [[CW]] so that it can be picked up by the emitting Radar. The benefit of such technique is that there is no need for the eavesdropping bug to generate radio signal, and therefore, no need for huge batteries or power. It also means that the bug can be turned on and off remotely, providing easy way to turn off the bug when a bug sweep detection team is trying to located it. The downside is that it's dangerous for health as the Radar signal between 1Ghz and 6Ghz can be harmful to human and cause illness and cancer, as it did numerous times in the past since the first time it was detected in the US Embassy in Moscow, Russia." />
+        </attvalues>
+      </node>
+      <node id="CM-III" label="CM-III" />
+      <node id="DANDERSPRIT" label="DANDERSPRIT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="see [[DANDERSPRITZ]]" />
+        </attvalues>
+      </node>
+      <node id="GOTHAM" label="GOTHAM" />
+      <node id="ANCHORY" label="ANCHORY">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="NSA software system which provides web access to textual intelligence documents" />
+        </attvalues>
+      </node>
+      <node id="to" label="to" />
+      <node id="SCHOOLMONTANA" label="SCHOOLMONTANA">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="SCHOOLMONTANA provides   persistence for DNT implants. The DNT implant  will survive an upgrade   or replacement of the operating system --  including physically   replacing the router's compact flash card. Currently, the intended DNT   Implant to persist is  [[VALIDATOR]], which must be run as a user   process on the target operating  system. The vector of attack is the   modification of the target's BIOS.  The modification will add the   necessary software to the BIOS and modify  its software to execute the   SCHOOLMONTANA implant at the end of its  native System Management Mode   (SMM) handler.SCHOOLMONTANA   must support all modern versions of  Junos, which is a version of   FreeBSD customized by Juniper. Upon system  boot, the Junos operating   system is modified in memory to run the  implant, and provide  persistent  kernel modifications to support implant  execution.  SCHOOLMONTANA is  the cover term for the persistence technique to deploy  a DNT implant to  Juniper J-Series routers. SCHOOLMONTANA completed and  released by ANT  May 30, 2008. It is ready for deployment." />
+        </attvalues>
+      </node>
+      <node id="DANDERSPRITZ" label="DANDERSPRITZ">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Described as an “intermediate redirector node.” Another tool made by Digital Network Technologies (DNT). Spoofs IP and MAC address." />
+        </attvalues>
+      </node>
+      <node id="TAO" label="TAO" />
+      <node id="Tailored" label="Tailored" />
+      <node id="LIFESAVER" label="LIFESAVER">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Imaging of the Hard Drive." />
+        </attvalues>
+      </node>
+      <node id="QUANTUMBOT" label="QUANTUMBOT">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="hijack IRC bot (--&gt; botnet?)" />
+        </attvalues>
+      </node>
+      <node id="QUANTUMSKY" label="QUANTUMSKY">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="LHR" label="LHR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Long Haul Relay" />
+        </attvalues>
+      </node>
+      <node id="TOTECHASER" label="TOTECHASER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Software-based  malware for Thuraya 2520 satellite-cellular handsets running Windows  CE. Designed to exfiltrate GPS and GSM geolocation data, as well as the  call log and contact list, and other data via covert SMS messages. SMS  messages are also the means by which the attacker controls the phone.  Implementation requires modifying the phone itself, not yet deployed as  of Oct 2008." />
+        </attvalues>
+      </node>
+      <node id="TUMULT" label="TUMULT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="associated with TURBULANCE. Somehow involved with QUANTUMTHEORY. Not precicely clear." />
+        </attvalues>
+      </node>
+      <node id="NEBULA" label="NEBULA">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A base station router, for intercepting mobile telephone calls and data transmissions. Uses the [[TYPHON]] GUI. Networkable and controllable via 802.3 and 802.11." />
+        </attvalues>
+      </node>
+      <node id="p" label="p" />
+      <node id="COVERTNETWORK" label="COVERTNETWORK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="q" label="q" />
+      <node id="ENDUE" label="ENDUE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A [[COI]] for sensitive decrypts of the [[BULLRUN]] program" />
+        </attvalues>
+      </node>
+      <node id="ALTEREGO QFD" label="ALTEREGO QFD">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="ALTEREGO QFD  -  A “Question filled Dataset”" />
+        </attvalues>
+      </node>
+      <node id="LEGION(JADE)" label="LEGION(JADE)">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="GCHQ cover term, somehow associated with FLYING PIG, which is a tool used for exploitation. It is probable that this term is also related  to exploitation in some way." />
+        </attvalues>
+      </node>
+      <node id="METTLESOME" label="METTLESOME">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="SHIFTINGSHADOW" label="SHIFTINGSHADOW">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Subprogram of [[OAKSTAR]], aka [[.US-3217]] (PDDG:MU)" />
+        </attvalues>
+      </node>
+      <node id="EVILOLIVE" label="EVILOLIVE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Collects internet traffic and data." />
+        </attvalues>
+      </node>
+      <node id="FOXACID." label="FOXACID." />
+      <node id="MAESTRO" label="MAESTRO" />
+      <node id="n" label="n" />
+      <node id="STRAITBAZZARE" label="STRAITBAZZARE" />
+      <node id="TUNING" label="TUNING">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="CANDYGRAM" label="CANDYGRAM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Mimics GSM cell tower. Also included in the package are  a Windows  XP laptop, and cell phone, that communicate with the unit  via SMS messages. Capable of targeting 200 phone numbers simultaneously" />
+        </attvalues>
+      </node>
+      <node id="XKEYSCORE" label="XKEYSCORE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="XKeyscore (XKS) is a formerly secret computer system used by the United States National Security Agency for searching and analyzing Internet data about foreign nationals across the world. The program is run jointly with other agencies including Australia's Defence Signals Directorate, and New Zealand's Government Communications Security Bureau. XKeyscore is an NSA data-retrieval system which consists of a series of user interfaces, backend databases, servers and software that selects certain types of metadata that the NSA has already collected using other methods.According to the published slides, these come from three different sources:* [[FORNSAT]] - which means &quot;foreign satellite collection&quot;, and refers to intercepts from satellites (ECHELON) that process data used by other countries* Overhead - American satellites* Special Source Operations ([[SSO]] -Division of the NSA that cooperates with American mobile phone operators* Tailored Access Operations ([[TAO]] - Division of the NSA that deals with hacking and cyberwarfare* [[F6]] - Joint operation of the CIA and NSA (Special Collection Service) that carries out clandestine operations including espionage on foreign diplomats and leaders* [[FISA]] - All types of surveillance approved by the Foreign Intelligence Surveillance Court* 3rd party - Foreign partners of the NSA such as Belgium, Denmark, France, Germany, Italy, Japan, the Netherlands, Norway, Sweden, etc" />
+        </attvalues>
+      </node>
+      <node id="BLUEANCHOR" label="BLUEANCHOR">
+        <attvalues>
+          <attvalue for="0" value="compartment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Partner providing a network access point for the [[YACHTSTOP]] program" />
+        </attvalues>
+      </node>
+      <node id="MAIL ORDER" label="MAIL ORDER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="MAUI" label="MAUI">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="WOLFPOINT" label="WOLFPOINT">
+        <attvalues>
+          <attvalue for="0" value="compartment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A sigad known as [[STORMBREW]], for example, relies on two unnamed corporate  partners described only as ARTIFICE and WOLFPOINT. According to an NSA  site inventory, the companies administer the NSA’s “physical systems,”  or interception equipment, and “NSA asks nicely for tasking/updates.”" />
+        </attvalues>
+      </node>
+      <node id="SHARPFOCUS" label="SHARPFOCUS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="PITCHFORD" label="PITCHFORD">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="DOGCOLLAR" label="DOGCOLLAR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="MADCAPOCELOT" label="MADCAPOCELOT">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Subprogram ([[US-3140]] (PDDG:TM)) of [[STORMBREW]] - DNI and metadata through [[XKEYSCORE]], [[PINWALE]] and [[MARINA]]." />
+        </attvalues>
+      </node>
+      <node id=" " label=" " />
+      <node id="FEEDTROUGH" label="FEEDTROUGH">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="FEEDTROUGH is a persistence technique for two software implants, DNT's  BANANAGLEE and CES's ZESTYLEAK used against Juniper Netscreen firewalls. http://leaksource.files.wordpress.com/2013/12/nsa-ant-feedthrough.jpg https://www.schneier.com/blog/archives/2014/01/feedtrough_nsa.html" />
+        </attvalues>
+      </node>
+      <node id="VALIDATOR" label="VALIDATOR">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="A software based malware item designed to run on certain Juniper routers (J, M, and T Series) running the JUNOS operating system. It must be maintained by means of a malicious BIOS modification. A typical use case involves the exfiltration of data from the victimized system. A separate document describes VALIDATOR as a backdoor used against Windows systems (win 98-2003). In this instance, it will identify the system, and if it is truly a target, invite a more sophisticated trojan in, such as [[UNITEDRAKE]] or [[OLYMPUS]]. This trojan has been used to de-anonymize tor users. A third version of VALIDATOR works for Apple iOS devices. The [[QUANTUMNATION]] states that the success rate against iOS devices is 100%." />
+        </attvalues>
+      </node>
+      <node id="CHIMNEYPOOL" label="CHIMNEYPOOL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Software based malware toolkit “Framework”, likely written in C/C++ (according to resumes posted online)" />
+        </attvalues>
+      </node>
+      <node id="GENIE" label="GENIE">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="projected ?" />
+          <attvalue for="2" value="implants of spywares. Multi-stage operation: jumping the airgap etc.* [[US-3136]]* [[US-3137]]" />
+        </attvalues>
+      </node>
+      <node id="[" label="[" />
+      <node id="WRANGLER" label="WRANGLER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="k" label="k" />
+      <node id="exploitation" label="exploitation" />
+      <node id="DIKTER" label="DIKTER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="DANGERMOUSE" label="DANGERMOUSE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="CREDIBLE" label="CREDIBLE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="WAGONBED" label="WAGONBED">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="a malicious hardware device that provides covert 2-way RF communications on the I2C channel of HP Proliant 380DL G5 servers. [[WAGONBED]] 2 can be mated with a Motorola G20 GSM module to form [[CROSSBEAM]]." />
+        </attvalues>
+      </node>
+      <node id="OCTAVE" label="OCTAVE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="CARILLION" label="CARILLION">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="AUNTIE" label="AUNTIE">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="VAGRANT" label="VAGRANT">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Collection of computer Screens. The monitor cables are rigged with an RF retro reflector, [[(RAGEMASTER]]). [[VAGRANT]] collection therefor requires a continuous RF generator such as [[CTX4000]] or [[PHOTOANGLO]], and a system to process and display the returned video signal such as [[NIGHTWATCH]], [[GOTHAM]], [[LS-2]] (with an external monitor), or [[VIEWPLATE]]. Known to be deployed in the field , as of September 2010 at the following embassies: Brazil's UN Mission in NY ([[POKOMOKE]]), France's UN Mission in NY ([[BLACKFOOT]]), India's Embassy and annex in DC, and India's UN Mission in New York.  India's embassies were slated to be detasked, at the time of the document. Context of documents seems to suggest, but does not definitively prove that the coverterm VAGRANT only applies to the signal itself." />
+        </attvalues>
+      </node>
+      <node id="WISTFULTOLL" label="WISTFULTOLL">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A plugin for [[UNITEDRAKE]] and [[STRAITBIZARRE]] that  extracts WMI and registry information from the victim machine. Also  available as a stand-alone executable. Can be installed either remotely,  or by USB thumb drive. In the latter case, exfiltrated data will be  stored on that same thumb drive. Works on Windows 2000, XP, and 2003." />
+        </attvalues>
+      </node>
+      <node id="FA" label="FA">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="CNE (hacking) technique used against Tor users" />
+        </attvalues>
+      </node>
+      <node id="SILVERZEPHYR" label="SILVERZEPHYR">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Subprogram of [[OAKSTAR]], aka [[US-3257]] (PDDG:SK), DNR (metadata, voice, fax), DNI (content, metadata)" />
+        </attvalues>
+      </node>
+      <node id="UAV" label="UAV">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Unmanned aerial vehicle. A drone." />
+        </attvalues>
+      </node>
+      <node id="TUTELAGE" label="TUTELAGE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Part of the [[Turbulence (NSA)|TURBULENCE]] program. NSA's own defense system against hacking." />
+        </attvalues>
+      </node>
+      <node id="AGILITY" label="AGILITY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="SPOTBEAM" label="SPOTBEAM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="NUCLEON" label="NUCLEON">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[NUCLEON]] is a database maintained by the NS) which intercepts telephone calls and routes the spoken words." />
+        </attvalues>
+      </node>
+      <node id="BSR" label="BSR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Base Station Router, use for intercepting GSM cell phone signals. Ships with laptop and accessories, networkable with other units via 802.11. Supports CANDYGRAM and LANDSHARK capabilities." />
+        </attvalues>
+      </node>
+      <node id="CONVEYANCE" label="CONVEYANCE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[CONVEYANCE]] is a final layer of filtering to reduce the intake of information about Americans, it provides filtering for [[PRISM]] and filtering the voice content processed by S3132. The CONVEYANCE's informations are stocked in [[NUCLEON]]." />
+        </attvalues>
+      </node>
+      <node id="UNITEDRAKE" label="UNITEDRAKE">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A program similar to [[STRAITBIZARRE]], used for  uploading malicious HDD firmware, works with [[SLICKERVICAR]]. Known  components include a GUI, a database, and a server, and a manned  listening post.  It includes a trojan of the same name. Digital Network  Technologies (DNT), a private company,  actively maintains the listening  posts for [[UNITEDRAKE]], as well as design and deploy malware." />
+        </attvalues>
+      </node>
+      <node id="SIERRAMONTANA" label="SIERRAMONTANA">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="“SCHOOLMONTANA is the cover term for the persistence technique  to   deploy a DNT implant to Juniper M-Series Routers.” A malicious BIOS   modification." />
+        </attvalues>
+      </node>
+      <node id="diagrams" label="diagrams" />
+      <node id="DISHFIRE" label="DISHFIRE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="ARKSTREAM" label="ARKSTREAM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="malicious BIOS flashing program, known to be associated with DIETYBOUNCE, SWAP" />
+        </attvalues>
+      </node>
+      <node id="SABRE" label="SABRE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="ISLANDTRANSPORT" label="ISLANDTRANSPORT">
+        <attvalues>
+          <attvalue for="0" value="Process" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="“Enterprise Message Service”" />
+        </attvalues>
+      </node>
+      <node id="PENDLETON" label="PENDLETON">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="FERRETCANNON" label="FERRETCANNON">
+        <attvalues>
+          <attvalue for="0" value="Attack" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A system that injects malware, associated with FOXACID." />
+        </attvalues>
+      </node>
+      <node id="HALLUXWATER" label="HALLUXWATER">
+        <attvalues>
+          <attvalue for="0" value="attack" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="The [[HALLUXWATER]] Persistence Back Door implant is installed on a target Huawei Eudemon firewall as a boot ROM upgrade. When the target reboots, the PBD installer software will find the needed patch points and install the back door in the inbound packet processing routine.Once installed, [[HALLUXWATER]] communicates with an NSA operator via the [[TURBOPANDA]] Insertion Tool (PIT), giving the operator covert access to read and write memory, execute an address, or execute a packet.[[HALLUXWATER]] provides a persistence capability on the Eudemon 200, 500, and 1000 series firewalls. The [[HALLUXWATER]] back door survives OS upgrades and automatic bootROM upgrades." />
+        </attvalues>
+      </node>
+      <node id="SPARROW2" label="SPARROW2">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="SOLIS" label="SOLIS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Sigint On-Line Information System" />
+        </attvalues>
+      </node>
+      <node id="LFS-2" label="LFS-2">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A processing system for VAGRANT signals returned by the PHOTOANGLO system. Requires an external monitor to display the signal." />
+        </attvalues>
+      </node>
+      <node id="PATHFINDER" label="PATHFINDER">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[PATHFINDER]] is a [[SIGINT]] analysis tool made by   [[Science Applications International Corporation]] (SAIC), a new US   company headquartered in [[McLean, Virginia]] that provides government   services and [[information technology]] support." />
+        </attvalues>
+      </node>
+      <node id="JETPLOW" label="JETPLOW">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="JETPLOW is a firmware persistence implant for Cisco PIX  Series and  ASA (Adaptive Security Appliance) firewalls. It persists  DNT's  [[BANANAGLEE]] software implant. JETPLOW also has a persistent  back-door  capability.He  is a firmware persistence impant for Cisco PIX  Series and ASA  (Adaptive Security Appliance) firewalls. It persists  DNT's  [[BANANAGLEE]] software implant and modifies the Cisco firewall's   operating system (OS) at boot time. If [[BANANAGLEE]] support is not   available for the booting operating system, it can install a Persistent   Backdoor (PDB) designed to work with [[BANANAGLEE]]'S communications   structure, so that full access can be reacquired at a later time.   JETPLOW works on Cisco's 500-series PIX firewalls, as well as most ASA   firewalls (5505, 5510, 5520, 5540, 5550). A typical JETPLOW deployment  on a target firewall with  an exfiltration path to the Remote Operations  Center ([[ROC]]) is shown  above. JETPLOW is remotely upgradable and is  also remotely installable  provided [[BANANAGLEE]] is already on the  firewall of interest.Status: (C//REL) Released. Has been widely deployed. Current availability restricted based on OS version (inquire for details)." />
+        </attvalues>
+      </node>
+      <node id="MOCCASIN" label="MOCCASIN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="a version of COTTONMOUTH permanently attached to a USB keyboard" />
+        </attvalues>
+      </node>
+      <node id="IRONCHEF" label="IRONCHEF">
+        <attvalues>
+          <attvalue for="0" value="attack" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="IRONCHEF provides access persistence to target systems  by exploiting the motherboard BIOS and utilizing System Management Mode  (SMM) to communicate with a hardware implant that provides two-way RF  communication..This technique supports the HP Proliant 380DL G5  server, onto which a hardware implant has been installed that  communicates over the I2C Interface [[WAGONBED]]. Through interdiction, IRONCHEF, a software CNE implant  and the hardware implant are installed onto the system. If the software  CNE implant is removed from the target machine, IRONCHEF is used to  access the machine, determine the reason for removal of the software,  and then reinstall the software from a listening post to the target  system.&quot;&quot;Family&quot;&quot;&quot;: attack vector" />
+        </attvalues>
+      </node>
+      <node id="v" label="v" />
+      <node id="process" label="process" />
+      <node id="“DROPOUTJEEP" label="“DROPOUTJEEP" />
+      <node id="FOXACID" label="FOXACID">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="FOXACID identifies TOR users on the Internet and then executes an attack against their Firefox web browser.# finding Tor users via programs codenamed [[STORMBREW]], [[FAIRVIEW]], [[OAKSTAR]] and [[BLARNEY|]].# The NSA creates &quot;fingerprints&quot; that detect HTTP requests from the Tor network to particular servers. # These fingerprints are loaded into NSA database systems like [[XKEYSCORE]],# Using powerful data analysis tools with codenames such as [[TURBULENCE]], [[TURMOIL]] and [[TUMULT]], the NSA automatically look for Tor connections.# After the identification, the NSA uses its network of secret Internet servers to redirect those users to another set of secret Internet servers, with the codename [[FOXACID]], to infect the user's computer. # Once the computer is successfully attacked, it secretly calls back to a [[FoxAcid]] server, which then performs additional attacks on the target computer to ensure that it remains compromised long-term, and continues to provide eavesdropping information back to the NSA.See [[QUANTUM]] for the Man-in-the-middle." />
+        </attvalues>
+      </node>
+      <node id="STUCCOMONTANA" label="STUCCOMONTANA">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="provides persistence for DNT implants. The DNT implant will survive an upgrade or replacement of the operating system - including physically replacing the router's compact flash card." />
+        </attvalues>
+      </node>
+      <node id="SOMBERKNAVE" label="SOMBERKNAVE">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[SOMBERKNAVE]] is a software implant tha surreptitiously routes TCP traffic from a designated process to secondary network via un unused embedded 802.11 network devices. If an Internet-connected wireless access point is present, [[SOMBERKNAVE]] can be used to allow [[OLYMPUS]] or [[VALIDATOR]] to &quot;call home&quot;&quot; via 802.11 form an air-gapped target computer. If the 802.11 interface is in use by the target, he will not attempt to transmit." />
+        </attvalues>
+      </node>
+      <node id="DECKPIN" label="DECKPIN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="STEELFLAUTA" label="STEELFLAUTA">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="SSO Corporate/ [[TAO]] (Tailored Access Operations) Shaping" />
+        </attvalues>
+      </node>
+      <node id="QUANTUMINSERT" label="QUANTUMINSERT" />
+      <node id="THINTREAD" label="THINTREAD">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="inactive" />
+          <attvalue for="2" value="THINTREAD is the name of a project that the NSA pursued during the 1990s. The program involved wiretapping and sophisticated analysis of the resulting data, but according to the article, the program was discontinued three weeks before the September 11, 2001 attacks due to the changes in priorities and the consolidation of U.S. intelligence authority. The &quot;change in priority&quot; consisted of the decision made by the director of NSA General Michael V. Hayden to go with a concept called [[TRAILBLAZER]], despite the fact that THINTREAD was a working prototype that protected the privacy of U.S. citizens.ThinThread was dismissed and replaced by the [[TRAILBLAZER]] Project" />
+        </attvalues>
+      </node>
+      <node id="TAROTCARD" label="TAROTCARD">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="COTTONMOUTH-II" label="COTTONMOUTH-II" />
+      <node id="RETROREFLECTOR" label="RETROREFLECTOR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="a term for a special kind of mirror that always sends a signal directly back on the path it comes from, regardless of the angle." />
+        </attvalues>
+      </node>
+      <node id="COASTLINE" label="COASTLINE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="LP" label="LP">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Listening Post" />
+        </attvalues>
+      </node>
+      <node id="FORK" label="FORK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="w" label="w" />
+      <node id="SOUFFLETROUGH" label="SOUFFLETROUGH">
+        <attvalues>
+          <attvalue for="0" value="attackvector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="SOUFFLETROUGH is a BIOS persistence implant for  Juniper  SSG 500 and  SSG 300 firewalls. It persists DNT's [[BANANAGLEE]] software implant.  [[BANANAGLEE]] also has an advanced persistent back-door capability.(TS//SI//REL)   SOUFFLETROUGH is a BIOS persistence implant for Juniper  SSG 500 and   SSG 300 series firewalls (320M, 350M, 520, 550, 520M,  550M). It   persists DNT's [[BANANAGLEE]] software implant and modifies the   Juniper  firewall's operating system (ScreenOS) at boot time. If   [[BANANAGLEE]]  support is not available for the booting operating  system, it  can  install a Persistent Backdoor (PBD) designed to work  with [[ BANANAGLEE's]]   communications structure, so that full access can be  reacquired at a   later time. It takes advantage of Intel's System  Management Mode for   enhanced reliability and covertness. The PDB is also  able to beacon   home, and is fully configurable. A typical SOUFFLETROUGH deployment on  a  target firewall  with an exfiltration path to the Remote Operations   Center (ROC) is  shown above. SOUFFLETROUGH is remotely upgradeable and   is also remotely  installable provided [[BANANAGLEE]] is already on the firewall of interest." />
+        </attvalues>
+      </node>
+      <node id="EPICFAIL" label="EPICFAIL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="attacks against dumb Tor users (?)" />
+        </attvalues>
+      </node>
+      <node id="ISHTAR" label="ISHTAR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="TRINE" label="TRINE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="HC12" label="HC12">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="an earlier micro-computer design the NSA used in bugs." />
+        </attvalues>
+      </node>
+      <node id="a" label="a" />
+      <node id="FOXTRAIL" label="FOXTRAIL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="HAMMERMILL" label="HAMMERMILL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="TRAILBLAZER" label="TRAILBLAZER">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="inactive" />
+          <attvalue for="2" value="TRAILBLAZER was a United States NSA program intended to develop a capability to analyze data carried on communications networks like the Internet. It was intended to track entities using communication methods such as cell phones and e-mail. It ran over budget, failed to accomplish critical goals, and was cancelled." />
+        </attvalues>
+      </node>
+      <node id="TURBOPANDA" label="TURBOPANDA">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="command and control system for exploited Huawei firewalls" />
+        </attvalues>
+      </node>
+      <node id="LONGHAUL" label="LONGHAUL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="CARBOYII" label="CARBOYII">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BYZANTINECANDOR" label="BYZANTINECANDOR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Refers to a certain class of hacking by Chinese actors. Byzantine Candor is a subset of Byzantine Hades relating to intrusion, including by means of social engineering involving delivering malicious payloads by email. (Source : Cablegate)" />
+        </attvalues>
+      </node>
+      <node id="HAMMERMILLInsertion Tool (HIT)" label="HAMMERMILLInsertion Tool (HIT)">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="command and control system, designed by DNT for exploited Huawei routers" />
+        </attvalues>
+      </node>
+      <node id="COTTONMOUTH-III" label="COTTONMOUTH-III" />
+      <node id="LS-2" label="LS-2" />
+      <node id="BLACKHEART" label="BLACKHEART">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="collection from FBI implant." />
+        </attvalues>
+      </node>
+      <node id="mentioned" label="mentioned" />
+      <node id="RETURNSPRING" label="RETURNSPRING">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="STUMPCURSOR" label="STUMPCURSOR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="Candor" label="Candor" />
+      <node id="WHITEBOX" label="WHITEBOX">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="FLYING" label="FLYING" />
+      <node id="TAWDRYYARD" label="TAWDRYYARD">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="End processing still in development" />
+          <attvalue for="2" value="TAWDRYYARD is used as a beacon, typically to assist in locating and identifying deployed [[RAGEMASTER]] units. Current designs allows it to be detected and located quite easily within a 5°' radius of the radar system being used to illuminate it. It allows a standard lithium coin cell to power it for months or years. The simplicity of the design allows to form factor to be tailored for specific operational requirements. Future capabilities being considered are returnof GPS coordinates and a unique target identifier and automatic processing to scan a target area for presence of TAWDRYYARDs. All components are COTS and so are non-attributable to NSA." />
+        </attvalues>
+      </node>
+      <node id="PLUS" label="PLUS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="systems" label="systems" />
+      <node id="QUICKANT" label="QUICKANT" />
+      <node id="COTTONMOUTH-1" label="COTTONMOUTH-1">
+        <attvalues>
+          <attvalue for="0" value="attackvector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="COTTONMOUTH-1 (CM-1) will provide air-gap bridging software persistence capability &quot;in-field&quot; reprogrammability, and covert communications with a host software implant over the USB. The RF link will enable command and data infiltration and exfiltration. CM-1 will also communicate with Data Network Technologies (DNT) software ([[STRAITBIZARRE]] through a covert channel implemented on the USB, using this communication channel to pass commands and data between hardware and software implants. CM-1 will be a [[GENIE]]-compliant based on [[CHIMNEYPOOL]].  CM-1 conceals digital components ([[TRINITY]]), USB 1.1 FS hub, switches, and [[HOWLERMONKEY]] (HM) RF Transceiver within the USB Séries-A cable connector. [[MOCCASIN]] is the version permanently connected to a USB keyboard. Another version can be made with an unmodified USB connector at the other end. CMH-I has the ability to communicate to other CM devices over the RF link using an over-the-air protocol called [[SPECULATION]]." />
+        </attvalues>
+      </node>
+      <node id="COTTONMOUTH-2" label="COTTONMOUTH-2">
+        <attvalues>
+          <attvalue for="0" value="attackvector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="COTTONMOUTH-2 (CM-2) will  provide air-gap bridging software persistence capability &quot;in-field&quot;  reprogrammability, and covert communications with a host software  implant over the USB. The RF link will enable command and data  infiltration and exfiltration. CM-1 will also communicate with Data  Network Technologies (DNT) software ([[STRAITBIZARRE]] through a covert  channel implemented on the USB, using this communication channel to pass  commands and data between hardware and software implants. CM-1 will  be a [[#GENIE|]]-compliant based on [[CHIMNEYPOOL]].  CM-1 conceals  digital components ([[TRINITY]]), USB 2.0 HS hub, switches, (...?)" />
+        </attvalues>
+      </node>
+      <node id="COTTONMOUTH-3" label="COTTONMOUTH-3">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="COTTONMOUTH-3 (CM-3) is a dual-stacked USB port/RJ45 ethernet jack combo, (the kind that are soldered directly onto a motherboard), providing a covert RF relay across airgapped systems. Like CM-I, and many other systems, it is written with the [[CHIMNEYPOOL]] framework, and communicates via [[STRAITBIZARRE]]. It can communicate with other CM devices with the SPECULATION Protocol. It also integrates TRINITY, and the [[HOWLERMONKEY]] RF transceiver." />
+        </attvalues>
+      </node>
+      <node id="Spotted" label="Spotted" />
+      <node id="CHEWSTICK" label="CHEWSTICK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="ROCKYKNOB" label="ROCKYKNOB">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Optional Digital Signal Processing (DSP) Module for CROSSBEAM." />
+        </attvalues>
+      </node>
+      <node id="STORMBREW" label="STORMBREW">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[STORMBREW]] (aka [[US-983]] (PDDG:FL) is an umbrella program involving surveillance of telecommunications. It falls under the category of &quot;[[UPSTREAM]] collection,&quot; meaning that data is pulled directly from fiber-optic cables and top-level communications infrastructure. There is also a SIGAD of the same name, which is described as a &quot;key corporate partner.&quot; A map shows that the collection is done entirely within the United States. This corporate partner has servers in Washington, California, Texas, Florida, and in or around New York, Virginia, and Pennsylvania. [[UPSTREAM]] collection programs allow access to very high volumes of data, and most of the pre-selection is done by the providers themselves, before the data is passed on to the NSA." />
+        </attvalues>
+      </node>
+      <node id="TRIBUTARY" label="TRIBUTARY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="MESSIAH" label="MESSIAH">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BANANAGLEE" label="BANANAGLEE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[BANANAGLEE]] allows to remotely install and upgrade [[JETPLOW]]" />
+        </attvalues>
+      </node>
+      <node id="CROSSBEAM" label="CROSSBEAM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="the CROSSBEAM module consists of a standard ANT architecture embedded computer, a specialized phone component, a customized voice controller suite and and optional DSP ([[ROCKYKNOB]]) if using Data Over Voice to transmit data”. Communicates over GSM. Compatible with [[CHIMNEYPOOL]] framework. Appears to be a [[WAGONBED]] controller board mated with a Motorola G20 GSM module." />
+        </attvalues>
+      </node>
+      <node id="PUZZLECUBE" label="PUZZLECUBE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="l" label="l" />
+      <node id="COMMONMOUTH-1" label="COMMONMOUTH-1" />
+      <node id="PICASSO" label="PICASSO">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="GSM  handset, carried by a witting operator for bugging conversations and  calls within its range. Includes a panic button for the operator." />
+        </attvalues>
+      </node>
+      <node id="|" label="|" />
+      <node id="GOURMETTROUGH" label="GOURMETTROUGH" />
+      <node id="CONTRAOCTAVE" label="CONTRAOCTAVE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="PHOTOANGLO" label="PHOTOANGLO">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Replaces  CTX4000, a continuous radar Wave generator, for the ANGRYNEIGHBOR  family of retro-reflector bugs, including VAGRANT, DROPMIRE and  LOADAUTO. The signals are then sent to a processing system such as  NIGHTWATCH or VIEWPLATE (which process and display the signals from the  VAGRANT monitor-cable bug). The LFS-2 is listed as another type of  processing system. A joint NSA/GCHQ project." />
+        </attvalues>
+      </node>
+      <node id="STRIKEZONE" label="STRIKEZONE" />
+      <node id="SETTEE" label="SETTEE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="related" label="related" />
+      <node id="CRYPTOENABLED" label="CRYPTOENABLED">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="collection derived from AO's efforts to enable crypto." />
+        </attvalues>
+      </node>
+      <node id="TWISTEDKILT" label="TWISTEDKILT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="a hard drive firmware updating program used to install malicious firmware of a victim hard drive -" />
+        </attvalues>
+      </node>
+      <node id="SENTINEL" label="SENTINEL">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Sentinel is a [[National Security Agency]] (NSA) security filter for [[SYBASE]] databases which provides multi-level security down to the row level." />
+        </attvalues>
+      </node>
+      <node id="TURBULENCE" label="TURBULENCE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="TURBULENCE is a project started circa 2005. It was developed in small, inexpensive &quot;test&quot; pieces rather than one grand plan like its failed predecessor, the [[TRAILBLAZER]]. It also includes offensive cyber-warfare capabilities, like injecting malware into remote computers. The United States Congress criticized the project in 2007 for having similar bureaucratic problems as the [[TRAILBLAZER]] Project." />
+        </attvalues>
+      </node>
+      <node id="HEADWATER" label="HEADWATER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="HEADWATER is a Persistent Backdoor (PDB) software implant for selected  Huawei routers. The implant will enable covert functions to be remotely  executed within the router via an Internet connection.HEADWATER PBD implant will be transferred remotely over the Internet to  the selected target router by Remote Operations Center (ROC) personnel.  After the transfer process is complete, the PBD will be installed in the  router's boot ROM via an upgrade command. The PBD will then be  activated after a system reboot. Once activated, the ROC operators will  be able to use DNT's [[HAMMERMILL]] Insertion Tool (HIT) to control the PBD  as it captures and examines all IP packets passing through the host  router.HEADWATER is the cover term for the PBD for Huawei Technologies routers.  PBD has been adopted for use in the joint NSA/CIA effort to exploit  Huawei network equipment. (The cover name for this joint project is  [[TURBOPANDA]].)" />
+        </attvalues>
+      </node>
+      <node id="OSCAR" label="OSCAR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="WHITETAMALE" label="WHITETAMALE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Operation against the Mexican Public Security Secretariat" />
+        </attvalues>
+      </node>
+      <node id="GAMUT" label="GAMUT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BOUNDLESSINFORMANT" label="BOUNDLESSINFORMANT">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[BOUNDLESSINFORMANT]] is a big data analysis and data visualization system used by the NSA to give managers summaries of the NSA's world wide data collection activities. According to a Top Secret heat map display also published by The Guardian  and produced by the Boundless Informant program, almost 3 billion data  elements from inside the United States were captured by the NSA over a  30-day period ending in March 2013.Data analyzed by BOUNDLESSINFORMANT includes electronic surveillance program records (DNI) and telephone call metadata records (DNR) stored in an NSA data archive called GM-PLACE. It does not include FISA data, according to the FAQ memo. [[PRISM]],  a government codename for a collection effort known officially as US-984XN, which was revealed at the same time as BOUNDLESSINFORMANT, is  one source of DNR data. According to the map, BOUNDLESSINFORMANT summarizes data records from 504 separate DNR and DNI collection sources  (SIGADs).  In the map, countries that are under surveillance are assigned a color  from green, representing least coverage to red, most intensive." />
+        </attvalues>
+      </node>
+      <node id="SEAGULLFARO" label="SEAGULLFARO">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="TAPERLAY" label="TAPERLAY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="FREEFLOW" label="FREEFLOW">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefinehttps://pad.lqdn.fr/p/nsa_surveillance_toolsd" />
+        </attvalues>
+      </node>
+      <node id="CREST" label="CREST">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="g" label="g" />
+      <node id="DARKTHUNDER" label="DARKTHUNDER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A SIGAD used for TAO, and thus [[QUANTUM]], [[FOXACID]]." />
+        </attvalues>
+      </node>
+      <node id="OCEANARIUM" label="OCEANARIUM">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="database for SIGINT from NSA and intelligence sharing partners around the world" />
+        </attvalues>
+      </node>
+      <node id="SSP" label="SSP">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="Hades" label="Hades" />
+      <node id="SSO" label="SSO">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Special Site Operation : a physical place from where NSA executes attacks such as [[QUANTUMINSERT]]. Typically an US Embassy with either one or several of these: antennas, network connections, radio patch antennas, etc..." />
+        </attvalues>
+      </node>
+      <node id="JUGGERNAUT" label="JUGGERNAUT">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Picks up all signals from mobile networks." />
+        </attvalues>
+      </node>
+      <node id="SSG" label="SSG">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="STRAITBAZARRE" label="STRAITBAZARRE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="FLYINGPIG" label="FLYINGPIG">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="GCHQ SSL/TLS exploitation knowledgebase and tool used for MITM attacks against Petrobras" />
+        </attvalues>
+      </node>
+      <node id="FREEZEPOST" label="FREEZEPOST">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BLACKMAGIC" label="BLACKMAGIC">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="MUSCULAR" label="MUSCULAR">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="[[MUSCULAR]] is a  tool to exploit the data links from Google and Yahoo, operated jointly by the [[National Security Agency]] (NSA) and the British [[Government Communications Headquarters]] (GCHQ). They are copying entire data flows across fiber-optic cables that carry information among the data centers." />
+        </attvalues>
+      </node>
+      <node id="COMMONMOUTH-2" label="COMMONMOUTH-2" />
+      <node id="TRAFFICTHIEF" label="TRAFFICTHIEF">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="According to an [[XKEYSCORE]] presentation, TRAFFICTHIEF is a database of &quot;Meta-data from a subset of tasked strong-selectors&quot; According to the [[XKEYSCORE]] presentation, a example of a strong selector is an email address. In other words, it would be a database of the metadata associated with names, phone numbers, email addresses, etc., that the intelligence services are specifically targeting." />
+        </attvalues>
+      </node>
+      <node id="FISHBOWL" label="FISHBOWL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="APERIODIC" label="APERIODIC">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="BACONRIDGE" label="BACONRIDGE">
+        <attvalues>
+          <attvalue for="0" value="compartment" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="Installation of [[TAO]] in St. Antonio, TX. 270 personnel, 210 workstations." />
+        </attvalues>
+      </node>
+      <node id="story" label="story" />
+      <node id="SPARROW" label="SPARROW" />
+      <node id="tor" label="tor" />
+      <node id="ECI" label="ECI">
+        <attvalues>
+          <attvalue for="0" value="compartment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="ECI ( Extremely Compartimented Intelligence) is an undeterminded group of NSA partners" />
+        </attvalues>
+      </node>
+      <node id="BELLVIEW" label="BELLVIEW">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="SWAP" label="SWAP">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A  combination of a malicious BIOS modification and a malicious Hard Disk  firmware modification (in the host protected area) used to maintain  software based malware on the victim computer. Appears to work on a  variety                   of systems running Windows, Linux, FreeBSD or  Solaris. The file system may be FAT32, NTFS, EXT2, EXT3, or UFS 1.0." />
+        </attvalues>
+      </node>
+      <node id="TYPHON" label="TYPHON">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="TYPHON HX is a GSM  base station router. Used to collect call logs from targeted phones.  Administrated with a laptop via SMS, but is otherwise a standalone unit.  There is no apparent ability to network these together, though other  units, running the same software can do so (CYCLONE Hx9)." />
+        </attvalues>
+      </node>
+      <node id="ASSOCIATION" label="ASSOCIATION">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="Petrobras" label="Petrobras" />
+      <node id="MJOLNIR" label="MJOLNIR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="an  internal tor test network ca 2006, with software  tools for the same.  Mjolnir was the “Hammer of Thor” possible pun –  “hammer of tor”" />
+        </attvalues>
+      </node>
+      <node id="BINOCULAR" label="BINOCULAR">
+        <attvalues>
+          <attvalue for="0" value="network" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="BINOCULAR is an integrated NSA signals intelligence  source data  broadcast service system, integrating nine separate Ultra  High Frequency  (UHF) transmissions, transmitted through the Global  Broadcast System  satellite network." />
+        </attvalues>
+      </node>
+      <node id="DROPMIRE" label="DROPMIRE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="Passive collection of emanations using antenna. [[DROPMIRE]]  aimed at surveillance of foreign embassies and diplomatic staff, including those of NATO allies. NSA leaks show how US is bugging its European allies. The report reveals that at least &quot;&quot;38 foreign embassies&quot;&quot; were under surveillance, some of which as far back as 2007." />
+        </attvalues>
+      </node>
+      <node id="QFD" label="QFD">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Question Filled Dataset" />
+        </attvalues>
+      </node>
+      <node id="XP" label="XP" />
+      <node id="TLN" label="TLN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Twisty Lobby Number. (not really well explained in doc)" />
+        </attvalues>
+      </node>
+      <node id="WEBCANDID" label="WEBCANDID">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="b" label="b" />
+      <node id="target" label="target" />
+      <node id="project" label="project" />
+      <node id="See" label="See" />
+      <node id="r" label="r" />
+      <node id="Anchor." label="Anchor." />
+      <node id="DANCINGOASIS" label="DANCINGOASIS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="INTELINK" label="INTELINK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="and" label="and" />
+      <node id="CHIPPEWA" label="CHIPPEWA">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="CHIPPEWA seems to be a communication network" />
+        </attvalues>
+      </node>
+      <node id="TURBULANCE" label="TURBULANCE" />
+      <node id="PRISM" label="PRISM">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="PRISM (US-984XN) is a clandestine mass electronic surveillance data mining program known to have been operated by the United States National Security Agency (NSA) since 2007. PRISM is a government code name for a data-collection effort.The PRISM program collects stored Internet communications based on demands made to Internet companies such as Google Inc. and Apple Inc. under Section 702 of the FISA Amendments Act of 2008 to turn over any data that match court-approved search terms. The NSA can use these PRISM requests to target communications that were encrypted when they traveled across the Internet backbone, to focus on stored data that telecommunication filtering systems discarded earlier, and to get data that is easier to handle, among other things. The program is operated under the supervision of the U.S. Foreign Intelligence Surveillance Court (FISA Court, or FISC) pursuant to the Foreign Intelligence Surveillance Act (FISA). Documents indicate that PRISM is &quot;the number one source of raw intelligence used for NSA analytic reports&quot;, and it accounts for 91% of the NSA's Internet traffic acquired under FISA section 702 authority. The leaked information came to light one day after the revelation that the FISA Court had been ordering a subsidiary of telecommunications company Verizon Communications to turn over to the NSA logs tracking all of its customers' telephone calls on an ongoing daily basis." />
+        </attvalues>
+      </node>
+      <node id="TUSKATTIRE" label="TUSKATTIRE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BLUEZEPHYR" label="BLUEZEPHYR">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[US-3277]], subprogram of [[OAKSTAR]]" />
+        </attvalues>
+      </node>
+      <node id="BLINDDATE" label="BLINDDATE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Software included on SPARROW II mini computers. Also seen in another context on QFIRE slide as part of a “TAO covert network.”." />
+        </attvalues>
+      </node>
+      <node id="BULLDOZER" label="BULLDOZER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="PCI bus malicious hardware, installed via “interdiction”" />
+        </attvalues>
+      </node>
+      <node id="SPHINX" label="SPHINX">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="FOXACID]]." label="FOXACID]]." />
+      <node id="DRUID" label="DRUID">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="(HIT)" label="(HIT)" />
+      <node id="DROPOUTJEEP" label="DROPOUTJEEP">
+        <attvalues>
+          <attvalue for="0" value="vector attack" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="DROPOUTJEEP is a [[STRAITBIZARRE]] based software implant for the Apple iphone operating system and uses the [[CHIMNEYPOOL]] framework. DROPOUTJEEP is compliant with the [[FREEFLOW]] project, therefore it is supported in the [[TURBULENCE]] architecture.  Infiltrates and exfiltrates SMS, files, contact lists, voicemail, geolocation, camera capture. Once installed, DROPOUTJEEP can be controlled via SMS messages or GPRS data connection." />
+        </attvalues>
+      </node>
+      <node id="CHALKFUN" label="CHALKFUN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="CLOUD" label="CLOUD">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="therefor" label="therefor" />
+      <node id="SURPLUSHANGAR" label="SURPLUSHANGAR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="FALLOUT" label="FALLOUT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="SEMESTER" label="SEMESTER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="AIRGAP/COZEN" label="AIRGAP/COZEN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="Hx9" label="Hx9" />
+      <node id="TREASUREMAP" label="TREASUREMAP">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="PICARESQUE" label="PICARESQUE">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="MCM" label="MCM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Multi Chip Module" />
+        </attvalues>
+      </node>
+      <node id="WATCH" label="WATCH">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="HOMEBASE" label="HOMEBASE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="ONEROOF" label="ONEROOF">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="DRTBOX" label="DRTBOX">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Program for intercepting mobile communication networks. France in the NSA's crosshair : phone networks under surveillance. Subprograms: [[US-985D]] - France, [[US-987LA]] and [[US-987LB]]  - Germany." />
+        </attvalues>
+      </node>
+      <node id="SHELLTRUMPET" label="SHELLTRUMPET">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[SHELLTRUMPET]] is a NSA metadata processing program which show the NSA's metadata collection scale." />
+        </attvalues>
+      </node>
+      <node id="CONJECTURE" label="CONJECTURE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A RF communication protocol used by [[HOWLERMONKEY]] devices." />
+        </attvalues>
+      </node>
+      <node id="KONGUR" label="KONGUR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="malware payload, known to be deployed via KONGUR" />
+        </attvalues>
+      </node>
+      <node id="supported" label="supported" />
+      <node id="9x" label="9x" />
+      <node id="UPSTREAM" label="UPSTREAM">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="The UPSTREAM program, or &quot;Room 641A&quot;, is a telecommunication interception facility operated by [[AT&amp;T]] for the NSA that commenced operations in 2003 and was exposed in 2006. Room 641A is located in the SBC Communications building at 611 Folsom Street, San Francisco, three floors of which were occupied by AT&amp;T before SBC purchased AT&amp;T. The room was referred to in internal AT&amp;T documents as the SG3 [Study Group 3] Secure Room. It is fed by fiber optic lines from beam splitters installed in fiber optic trunks carrying Internet backbone traffic and, as analyzed by J. Scott Marcus, a former CTO for GTE and a former adviser to the FCC, has access to all Internet traffic that passes through the building, and therefore &quot;the capability to enable surveillance and analysis of internet content on a massive scale, including both overseas and purely domestic traffic.&quot; Former director of the NSA's World Geopolitical and Military Analysis Reporting Group, William Binney, has estimated that 10 to 20 such facilities have been installed throughout the United States." />
+        </attvalues>
+      </node>
+      <node id="COTRAVELER" label="COTRAVELER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="set of tools for finding unknown associates of intelligence targets by tracking movements based upon cell phone locations." />
+        </attvalues>
+      </node>
+      <node id="BULLSEYE" label="BULLSEYE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="SHARKFIN" label="SHARKFIN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="RAMPART" label="RAMPART">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="RAMPART ( or RAMPART-T) is a [[NSA]] operational branches that intercept heads of state and their closest aides. Known divisions are RAMPART-A, RAMPART-I and RAMPART-T, which focuses on foreign governments." />
+        </attvalues>
+      </node>
+      <node id="SLICKERVICAR" label="SLICKERVICAR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A tool known to be used somewhere in the process of uploading malicious HD firmware" />
+        </attvalues>
+      </node>
+      <node id="MAESTROII" label="MAESTROII">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A  generic, programmable miniature computer. For use in concealed bugs.  Specs: 66Mhz ARM 7 microcontroller, 4 MB Flash, 8 MB SDRAM an “XC2V500  500k gates” FPGA. Roughly the same size as a dime." />
+        </attvalues>
+      </node>
+      <node id="CASPORT" label="CASPORT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="CYCLONE" label="CYCLONE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="EGSM base station router, used for collection GSM cell phone signals. Shops with laptop and accessories for command and control, uses the same GUI as the [[TYPHON]]. Controllable via 802.11 wifi." />
+        </attvalues>
+      </node>
+      <node id="GREATEXPECTATIONS" label="GREATEXPECTATIONS">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="NSA version of [[QUICKANT]]" />
+        </attvalues>
+      </node>
+      <node id="MAGNETIC" label="MAGNETIC">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="sensor collection of magnetic emanations. Tempest style attack" />
+        </attvalues>
+      </node>
+      <node id="FIREWALK" label="FIREWALK">
+        <attvalues>
+          <attvalue for="0" value="Process" />
+          <attvalue for="1" value="unknow" />
+          <attvalue for="2" value="“FIREWALK  is a bidirectional network implant, capable of passively collecting  Gigabit Ethernet traffic and injecting Ethernet packets onto the same  target network.” Integrates TRINITY and HOWLERMONKEY. Provides direct or  indirect covert RF link to Remote Operations Center via a VPN. The  version in the catalog requires soldering to a motherboard. Note: unit  physically appears nearly identical to CM-III. Perhaps a subclass of  RADON." />
+        </attvalues>
+      </node>
+      <node id="BLACKPEARL" label="BLACKPEARL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="GALAXY" label="GALAXY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="LANDSHARK" label="LANDSHARK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="BLACKFOOT" label="BLACKFOOT">
+        <attvalues>
+          <attvalue for="0" value="software | hardware" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Name of an operation to bug the french mission on the UN, introducing spywares in foreign embassies." />
+        </attvalues>
+      </node>
+      <node id="h" label="h" />
+      <node id="SEASONEDMOTH" label="SEASONEDMOTH">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A class of malware that is programmed to automatically die with in 30 days. (unless instructed to extend its life)" />
+        </attvalues>
+      </node>
+      <node id="PEDDLECHEAP" label="PEDDLECHEAP">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="subprogram of [[FERRETCANNON]] and [[FOXACID]]." />
+        </attvalues>
+      </node>
+      <node id="RAGTIME" label="RAGTIME">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[RAGTIME]] (RT) is the code name of four secret surveillance programs conducted by the [[National Security Agency]] (NSA) of the United States. These special programs are conducted under the code name RAGTIME (also abbreviated as RT), and are divided into several subcomponents (RAGTIME-A, RAGTIME-B, RAGTIME-C, and RAGTIME-P). It's said that about 50 companies have provided data to this domestic collection program.* RAGTIME-A : counterterrorism* RAGTIME-B : * RAGTIME-C : counterproliferation actvities (like WMD, nuclear, biological, chemical).* RAGTIME-P (P -&gt; Patriot act ?) : warantless wiretapping" />
+        </attvalues>
+      </node>
+      <node id="FACELIFT" label="FACELIFT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="GINSU" label="GINSU">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="maintains KONGUR infection, should it be removed" />
+        </attvalues>
+      </node>
+      <node id="CRISSCROSS" label="CRISSCROSS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="see [[PROTON]]" />
+        </attvalues>
+      </node>
+      <node id="DEITYBOUNCE" label="DEITYBOUNCE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="DEITYBOUNCE provides software application persistence  on Dell PowerEdge servers by exploiting the motherboard BIOS and  utilizing System Management Mode (SMM) to gain periodic execution while  the Operating System loads. This technique supports multi-processor systems with  RAID hardware and Microsoft Windows 2000, 2003, and XP. It currently  targets Dell PowerEdge 1850/2850/1950/2950 RAID servers, using BIOS  versions A02, A05, A06, 1.1.0, 1.2.0, or 1.3.7. Through remote access or interdiction, [[ARKSTREAM]] is  used to reflash the BIOS on a target machine to implant DEITYBOUNCE and  its payload (the implant installer).Can be installed by non-technical user with USB thumb drive. Once implanted, DEITYBOUNCE's frequency of execution (dropping  the payload) is configurable and will occur when the target machine  powers on.Status: Released / Deployed. Ready for Immediate Delivery" />
+        </attvalues>
+      </node>
+      <node id="PROTON" label="PROTON">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="LEGION(RUBY)" label="LEGION(RUBY)">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="GCHQ cover term, somehow associated with FLYING PIG, which is a tool used for exploitation. It is probable that this term is also related to exploitation in some way." />
+        </attvalues>
+      </node>
+      <node id="OCELOT" label="OCELOT">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Actual name: [[MADCAPOCELOT]] , a sub-program of [[STORMBREW]] for collection of internet metadata about Russia and European counterterrorism. MADCAPOCELOT uses [[DNI]] from [[XKEYSCORE]], [[PINWALE]] and [[MARINA]]" />
+        </attvalues>
+      </node>
+      <node id="QUICK" label="QUICK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="2.0" label="2.0" />
+      <node id="COBALTFALCON" label="COBALTFALCON">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[US-3354]], Subprogram of [[OAKSTAR]]." />
+        </attvalues>
+      </node>
+      <node id="WATERWITCH" label="WATERWITCH">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Handheld device for homing in on target handsets, used in conjunction with [[TYPHON]] or similar systems to provide more precise location information." />
+        </attvalues>
+      </node>
+      <node id="AQUADOR" label="AQUADOR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="SHORTSHEET" label="SHORTSHEET">
+        <attvalues>
+          <attvalue for="0" value="technique" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="CNE (hacking) technique used against Tor users" />
+        </attvalues>
+      </node>
+      <node id="Tool" label="Tool" />
+      <node id="PROTOSS" label="PROTOSS">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Possibly a bridge between the airgapped system and the Internet" />
+        </attvalues>
+      </node>
+      <node id="MAIN CORE" label="MAIN CORE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="OAKSTAR" label="OAKSTAR">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="[[OAKSTAR]]  is a secret internet surveillance program of the National Security Agency (NSA) of the United States. It was disclosed in 2013 as part of the leaks by former NSA contractor Edward Snowden.OAKSTAR is an umbrella program involving surveillance of telecommunications, it falls under the category of &quot;[[UPSTREAM collection,&quot; meaning that data is pulled directly from fiber-optic cables and top-level communications infrastructure. [[UPSTREAM]]  collection programs allow access to very high volumes of data, and most of the pre-selection is done by the providers themselves, before the data is passed on to the NSA. The FY 2013 budget for OAKSTAR is $9.41 million." />
+        </attvalues>
+      </node>
+      <node id="PIEDMONT" label="PIEDMONT">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="TEMPEST" label="TEMPEST">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="SUTURESAILOR" label="SUTURESAILOR">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A particular device that includes a HOWLERMONKEY component" />
+        </attvalues>
+      </node>
+      <node id="REMATIONII" label="REMATIONII">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Joint NSA/GCHQ anti-tor Workshop ca 2012" />
+        </attvalues>
+      </node>
+      <node id="HIGHTIDE/SKYWRITER" label="HIGHTIDE/SKYWRITER">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Desktop dashboard" />
+        </attvalues>
+      </node>
+      <node id="QIM/JMSQ" label="QIM/JMSQ">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BYZANTINEHADES" label="BYZANTINEHADES">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="“a cover term for a series of related computer network intrusions with a believed nexus to China, has affected U.S. and foreign governments as well as cleared defense contractors since at least 2003” Believed to be Chinese state-sponsored (the PLA in particular). Though the evidence is tenuous. (ca 2009). In general, victims of Chinese-affiliated hacking are legitimate businesses, including defense contractors. They have been successful in exfiltrating large volumes of confidential emails and other sensitive documents. (Source : Cablegate)" />
+        </attvalues>
+      </node>
+      <node id="PUPPY" label="PUPPY" />
+      <node id="LITHIUM" label="LITHIUM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="c" label="c" />
+      <node id="f" label="f" />
+      <node id="ORANGEBLOSSOM" label="ORANGEBLOSSOM">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Sub-program of [[OAKSTAR]] for collection from an international transit switch (sigad: [[US-3251]])" />
+        </attvalues>
+      </node>
+      <node id="s" label="s" />
+      <node id="context" label="context" />
+      <node id="FRIEZERAMP" label="FRIEZERAMP">
+        <attvalues>
+          <attvalue for="0" value="Process" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="A communications protocol that certain infected devices use to communicate with the NSA. It involves HTTPSlink2." />
+        </attvalues>
+      </node>
+      <node id="CIMBRI" label="CIMBRI">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="CIMBRI seems to be a metadata database" />
+        </attvalues>
+      </node>
+      <node id="PSP" label="PSP">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Personal Security Product. Also: President's Surveillance Program." />
+        </attvalues>
+      </node>
+      <node id="TUNINGFORK" label="TUNINGFORK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="spotted on DIETYBOUNCE, IRATEMONK, and SWAP diagrams  A combination of a malicious BIOS modification and a malicious Hard  Disk firmware modification (in the host protected area) used to maintain  software based malware on the victim computer. Appears to work on a  variety of systems running Windows, Linux, FreeBSD or Solaris. The file  system may be FAT32, NTFS, EXT2, EXT3, or UFS 1.0." />
+        </attvalues>
+      </node>
+      <node id="GEOFUSION" label="GEOFUSION">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="BELLTOPPER" label="BELLTOPPER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="COMMONDEER" label="COMMONDEER">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A software based malware, used by the NSA." />
+        </attvalues>
+      </node>
+      <node id="SPOKE" label="SPOKE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="VARGANT" label="VARGANT" />
+      <node id="STUXNET" label="STUXNET">
+        <attvalues>
+          <attvalue for="0" value="attackvector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="A  jointly US/Isreali written piece of malware intended to infect, and  physically destroy Iranian nuclear Centrifuges. (which it did) Also  spilled on to non-targeted SCADA systems, causing “collateral damage”." />
+        </attvalues>
+      </node>
+      <node id="GENTE" label="GENTE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="GLOBAL" label="GLOBAL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="MIDDLEMAN" label="MIDDLEMAN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="TAO covert network. i.e. a network that secretly connects airgapped                   computers to the internet." />
+        </attvalues>
+      </node>
+      <node id="ARTEMIS" label="ARTEMIS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An undetermined program for Geospatial analysis" />
+        </attvalues>
+      </node>
+      <node id="FAIRVIEW" label="FAIRVIEW">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[Fairview']] ([[US-990]]is  a secret [[mass surveillance]] programme run by the [[National Security  Agency]], aimed at collecting phone, internet and e-mail data in bulk  from the computers and mobile telephones of foreign countries' citizens. According  to the revelations, the NSA had collected 2.3 billion separate pieces  of data from Brazilian users in January 2013 alone." />
+        </attvalues>
+      </node>
+      <node id="PIG" label="PIG" />
+      <node id="MAGIC LANTERN" label="MAGIC LANTERN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="DEWSWEEPER" label="DEWSWEEPER">
+        <attvalues>
+          <attvalue for="0" value="vector attack" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="USB (Universal Serial Bus) hardware host tap that provides COVERT link over US link into a target network. Operates w/RF relay subsystem to provide wireless Bridge into target network." />
+        </attvalues>
+      </node>
+      <node id="CRUMPET" label="CRUMPET">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="CRUMPET Covert network (CCN) is a sample drawing included Printers, servers, and computers. All allegedly airgapped. (But not actually, due to covertly installed hardware)" />
+        </attvalues>
+      </node>
+      <node id="STELLARWIND" label="STELLARWIND">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="Stopped end 2011, see [[EVILOLIVE|]]." />
+          <attvalue for="2" value="[[STELLARWIND]] (STLW)   is the code name of a Sensitive Compartmented Information security compartment for information collected under the President's Surveillance Program (PSP). This was a program by the United States National Security Agency (NSA) during the presidency of George W. Bush and revealed by Thomas Tamm to the The New York Times in 2008. The operation was approved by President George W. Bush shortly after the September 11 attacks in 2001. STELLARWIND was succeeded during the presidency of Barack Obama by four major lines of intelligence collection in the territorial United States together capable of spanning the full range of modern telecommunications. The program's activities involved data mining of a large database of the communications of American citizens, including e-mail communications, phone conversations, financial transactions, and Internet activity." />
+        </attvalues>
+      </node>
+      <node id="QUANTUM" label="QUANTUM">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="To trick targets into visiting a [[FOXACID]] server, the NSA relies on its secret partnerships with US telecoms companies. As part of the [[TURMOIL]] system, the NSA places secret servers, codenamed [[QUANTUM]], at key places on the Internet backbone for a man-in-the-middle (or a man-in-the-side). The NSA uses these fast [[QUANTUM]] servers to execute a packet injection attack, which surreptitiously redirects the target to the [[FOXACID]] server." />
+        </attvalues>
+      </node>
+      <node id="ERRONEOUSINGENUITY" label="ERRONEOUSINGENUITY">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="ERRONEOUSINGENUITY (ERIN) is a NSA tool for exploiting the TOR network." />
+        </attvalues>
+      </node>
+      <node id="TALK" label="TALK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="EGOTISTICALGOAT" label="EGOTISTICALGOAT">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="EGOTISTICALGOAT (EGGO) is a NSA tool for exploiting the TOR network." />
+        </attvalues>
+      </node>
+      <node id="FOXSEARCH" label="FOXSEARCH">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="perhaps a database of all targets to be exploited with FOXACID" />
+        </attvalues>
+      </node>
+      <node id="HERCULES" label="HERCULES">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="IVYBELLS" label="IVYBELLS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BLARNEY|" label="BLARNEY|" />
+      <node id="CANNONLIGHT" label="CANNONLIGHT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="MUTANTBROTH" label="MUTANTBROTH">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[GCHQ]] tool for identifying targets from data returned by [[QUANTUM]] products" />
+        </attvalues>
+      </node>
+      <node id="FLUXBABBIT" label="FLUXBABBIT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="a  hardware based bug for Dell PowerEdge 1950 and 2950 servers using Xeon  5100 and 5300 processors. Installation requires intercepting the server,  while it is enroute to its destination, disassembling it and installing  the hardware." />
+        </attvalues>
+      </node>
+      <node id="HOWLERMONKEY" label="HOWLERMONKEY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="HOWLERMONKEY (CM) covert short to medium range RF Transceiver. Designed to be integrated with a larger device. Communicates over [[SPECULATION]] and [[CONJECTURE]] protocols. Known products that include HOWLERMONKEY are: [[COMMONMOUTH-1]] [[COMMONMOUTH-2]] [[FIREWALK]] SUTURESAILOR]] [[YELLOWPIN]]&quot;&quot;Family&quot;&quot;&quot;: attack vector" />
+        </attvalues>
+      </node>
+      <node id="ONIONBREATH" label="ONIONBREATH">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Relates to [[GCHQ]] efforts against tor hidden services" />
+        </attvalues>
+      </node>
+      <node id="LOPERS" label="LOPERS">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[LOPERS]] is a software application for Public Switched Telephone Networks." />
+        </attvalues>
+      </node>
+      <node id="COTTONMOUTH-I" label="COTTONMOUTH-I" />
+      <node id="architecture." label="architecture." />
+      <node id="is" label="is" />
+      <node id="it" label="it" />
+      <node id="RADON" label="RADON">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Bi-directional host tap that can inject Ethernet packets onto the same targets. Allows bi-directional exploitation of Denies networks using standard on-net tools." />
+        </attvalues>
+      </node>
+      <node id="in" label="in" />
+      <node id="INSERT" label="INSERT" />
+      <node id="FINKDIFFERENT" label="FINKDIFFERENT">
+        <attvalues>
+          <attvalue for="0" value="Attack" />
+          <attvalue for="1" value="unknow" />
+          <attvalue for="2" value="A Firefox exploit, successful against 10 ESR, but failed against                   tbb-firefox" />
+        </attvalues>
+      </node>
+      <node id="CINEPLEX" label="CINEPLEX">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="PPM" label="PPM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Pulse Position Modulate" />
+        </attvalues>
+      </node>
+      <node id="KEYHOLE" label="KEYHOLE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="CHASEFALCON" label="CHASEFALCON">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BANYAN" label="BANYAN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="FUNNELOUT" label="FUNNELOUT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="II" label="II" />
+      <node id="ANTO LP PROTOSS GUI" label="ANTO LP PROTOSS GUI">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Spotted on IRONCHEF diagram" />
+        </attvalues>
+      </node>
+      <node id="SPECULATION" label="SPECULATION">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="on" label="on" />
+      <node id="SPINNERET" label="SPINNERET">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="STRAITBIZARRE" label="STRAITBIZARRE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Software  made By Digital Network Technologies (DNT) for controlling and  receiving data from “implants”. Also involved somewhere in the process  of uploading malicious HD firmware (works with a tool called  SLICKERVICAR to accomplish this)" />
+        </attvalues>
+      </node>
+      <node id="SDR" label="SDR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="software Defined radio" />
+        </attvalues>
+      </node>
+      <node id="i" label="i" />
+      <node id="ANGRYNEIGHBOR" label="ANGRYNEIGHBOR">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A family of bugs implemented as RF retro reflectors. These communicate with the use of an external radar wave generator such as CTX4000 or PHOTOANGLO. The signals are then processed by a system such as VIEWPLATE, (for the VAGRANT video signal). Known implementations: LOUDAUTO(ambient audio). DROPMIRE (printer/fax), RAGEMASTER (video), SURLYSPAWN (keyboard/mouse)." />
+        </attvalues>
+      </node>
+      <node id="DOCKETDICTATE" label="DOCKETDICTATE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BULLRUN" label="BULLRUN">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="BULLRUN  is a clandestine, highly classified decryption program run by the NSA. The British signals intelligence agency Government Communications Headquarters (GCHQ) has a similar program codenamed [[EDGEHILL]]. Access to the program is limited to a group of top personnel at the Five Eyes (FVEY), NSA and the signals intelligence agencies of Britain, Canada, Australia, and New Zealand. Signals that  cannot be decrypted with current technology may be retained indefinitely  while the agencies continue to attempt to decrypt them: &quot;Documents show that the N.S.A. has been waging a  war against encryption using a battery of methods that include working  with industry to weaken encryption standards, making design changes to  cryptographic software, and pushing international encryption standards  it knows it can break.&quot; (The New York Times)" />
+        </attvalues>
+      </node>
+      <node id="DELTA" label="DELTA">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="y" label="y" />
+      <node id="UMBRAUNIFORM" label="UMBRAUNIFORM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="the" label="the" />
+      <node id="MONKEYCALENDAR" label="MONKEYCALENDAR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Malware  for GSM Phase 2+ SIM cards that use the SIM Toolkit (STK). Exfiltrates  geolocation data to a preset phone number via SMS." />
+        </attvalues>
+      </node>
+      <node id="EGOTISTICALGIRAFFE" label="EGOTISTICALGIRAFFE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="EGOTISTICALGIRAFFE (EGGI) is a NSA program for exploiting the TOR network." />
+        </attvalues>
+      </node>
+      <node id="KLONDIKE" label="KLONDIKE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="KLONDIKE (KDK)" />
+        </attvalues>
+      </node>
+      <node id="TRIKEZONE" label="TRIKEZONE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="SEASONMOTH" label="SEASONMOTH" />
+      <node id="EWALK" label="EWALK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="Access" label="Access" />
+      <node id="GOPHERSET" label="GOPHERSET">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="[[GOURMETTROUGH]] is a user configurable implant for certain Juniper  firewalls. It persists DNT's [[BANANAGLEE]] implant across reboots and OS  upgrades. For some platforms, it supports a minimal implant with  beaconing for OS's unsupported by [[BANANAGLEE]]. For supported platforms, DNT may configure without ANT  involvement. Except for limited platforms, they may also configure PBD  for minimal implant in the case where an OS unsupported by [[BANANAGLEE]] is  booted. [[GOURMETTROUGH]] is on the shelf and has been deployed on many  target platforms. It supports nsg5t, ns50, ns25, isg1000 (limited). Soon-  ssg140, ssg5, ssg20" />
+        </attvalues>
+      </node>
+      <node id="NIGHTSTAND" label="NIGHTSTAND">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Standalone tool currently running on an x86 laptop  loaded with Linux Fedora Core 3. Exploitable targets include Win2k,  WinXP, WinXPSP1, WinXPSP2 running internet explorer versions 5.0-6.0.  NIGHTSTAND packet injection can target one client or multiple targets on  a wireless network. Attack is undetectable by the user. Use of external  amplifiers and antennas in both experimental operational scenarios have  resulted in successful NIGHTSTAND attacks from as far away as eight  miles under ideal environmental conditions." />
+        </attvalues>
+      </node>
+      <node id="PAWLEYS" label="PAWLEYS">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="OCONUS" label="OCONUS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Not a code name - “Outside CONtinental US”" />
+        </attvalues>
+      </node>
+      <node id="TRINITY" label="TRINITY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A  microcomputer, designed to be part of a bug. Specs: 100Mhz ARM 9  Microcontroller, 4MB flash, 96MB SDRAM. Smaller than a penny. Known to  be a component of CM-I, CM-III, FIREWALK" />
+        </attvalues>
+      </node>
+      <node id="MULLENIZE" label="MULLENIZE">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="'USER agent staining”, malware" />
+        </attvalues>
+      </node>
+      <node id="RAGEMASTER" label="RAGEMASTER">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="provides a target for RF flooding and allows for easier collection of the [[VAGRANT]] video signal. The current RAGEMASTER unit taps the red video line on the VGA cable. It was found that, empirically, this provides the best video return and cleanest readout of the monitor contents. When the RAGEMASTER is illuminated by a radar unit, the illuminating signal is modulated with the red video information. This information is re-radiated, where it is picked up at the radar, demodulated, and passed onto the processing unit, such as a [[LFS-2]] and an external monitor." />
+        </attvalues>
+      </node>
+      <node id="ARGON" label="ARGON">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="YELLOWPIN" label="YELLOWPIN">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="a particular device that includes a [[HOWLERMONKEY]] component" />
+        </attvalues>
+      </node>
+      <node id="TURBINE" label="TURBINE">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Deep Packet Injection, works with [[TURMOIL]]. System used for infecting computers." />
+        </attvalues>
+      </node>
+      <node id="SURLYSPAWN" label="SURLYSPAWN">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="has the capability to gather keystrokes without requiring any software running on the targeted system. It also only requires that the targeted system be touched once. The retro-reflector is compatible with both USB ans PS/2 keyboards. The simplicity of the design allows the form factor to be tailored for specific operational requirements." />
+        </attvalues>
+      </node>
+      <node id="AIRSTEED" label="AIRSTEED">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Cell phone tracking program of the Global Access Operations (GAO) -- NEED REF ! http://baltimore.jobing.com/field-support-representative-airborne/job/employment/49004055" />
+        </attvalues>
+      </node>
+      <node id="Operations" label="Operations" />
+      <node id="MORAY" label="MORAY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="d" label="d" />
+      <node id="PINWALE" label="PINWALE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="PINWALE  is the code name for an NSA database of archived foreign and domestic  e-mails it has collected under its SIGINT efforts.  It is searchable by  monitored NSA analysts. Its existence was first revealed by an NSA  analyst who was trained to use it during 2005. However, according to  ''Homeland Security Today'', Pinwale has in it much more than email, it  also contains other forms of Internet data, and other forms of digital  communications as well. Its software has built-in protections against  collecting from any of the Five Eyes members. Unlike its successor  [[XKEYSCORE]], targets for PINWALE have to be approved beforehand by the United States Foreign Intelligence Surveillance Court (FISC)." />
+        </attvalues>
+      </node>
+      <node id="MOONLIGHTPATH" label="MOONLIGHTPATH">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[MOONLIGHTPATH]] is a Special Sources Operations ([[SSO]]) program, maintained by the NSA, it's a collection program to query metadatas, started in September, 2013" />
+        </attvalues>
+      </node>
+      <node id="OILSTOCK" label="OILSTOCK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="t" label="t" />
+      <node id="Insertion" label="Insertion" />
+      <node id="STONE" label="STONE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="EBSR" label="EBSR">
+        <attvalues>
+          <attvalue for="0" value="Process" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Low power GSM base station router," />
+        </attvalues>
+      </node>
+      <node id="GCHQ" label="GCHQ" />
+      <node id="OSMJCM-II" label="OSMJCM-II">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="spotted in [[CM-II]]" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="BLARNEY" label="BLARNEY">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[BLARNEY]] - a.k.a. '''US-984''' and '''US-984X''' -- the collection takes place at top-level telecommunications facilities within the United States, choke points through which most traffic will  flow, including wireless. This type of surveillance is referred to as  &quot;[[UPSTREAM]] Collection." />
+        </attvalues>
+      </node>
+      <node id="QUANTUMTHEORY" label="QUANTUMTHEORY">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="TALENT" label="TALENT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="CENTERMASS" label="CENTERMASS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="GHOSTMACHINE" label="GHOSTMACHINE">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[GHOSTMACHINE]] is the NSA's SSO (Special Source Operations) cloud analytics platform." />
+        </attvalues>
+      </node>
+      <node id="ROC" label="ROC">
+        <attvalues>
+          <attvalue for="0" value="compartment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="NSA [[TAO]] Remote Operation Center [[ROC]] is their intelligence exploitation centers. It is supposed to be distributed around the world, with suspected locations such as Dagger Complex, Griesheim, Darmstadt, Germany, Fort Meade, Maryland. [[TAO]] has also expanded to NSA Hawaii (Wahiawa, Oahu), NSA Georgia (Fort Gordon, Georgia), NSA Texas (Medina Annex, San Antonio, Texas), and Buckley Air Force Base, Denver." />
+        </attvalues>
+      </node>
+      <node id="GODSURGE" label="GODSURGE">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="runs on the [[FLUXBABBIT]] hardware implant and provides software application persistence on Dell PowerEdge servers by exploiting the JTAG debugging interface of the server's processors." />
+        </attvalues>
+      </node>
+      <node id="CDRDIODE" label="CDRDIODE">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="It  is the name for a protecting device that enables the intercepted data  to flow to NSA without enabling an attacker to use the same way to  compromise NSA or travel further toward identification. The tentative  explanation is that when some data come from the low side (insecure)  toward the high side (secure) of the NSA infrastructure so that it can  be read by analaysts at the NSA Remote Operation Center [[ROC]], then it  needs to go through that [[CDRDIODE]]." />
+        </attvalues>
+      </node>
+      <node id="QUANTUM INSERT" label="QUANTUM INSERT">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="attack vector" />
+          <attvalue for="2" value="It appears to be a method with which the person being targeted, without  their knowledge, is redirected to websites that then plant malware on  their computers that can then manipulate them. Some of the employees  whose computers were infiltrated had &quot;good access&quot; to important parts of  Belgacom's infrastructure, and this seemed to please the British spies,  according to the slides." />
+        </attvalues>
+      </node>
+      <node id="QUANTUMNATION" label="QUANTUMNATION">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="active" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="OCEAN" label="OCEAN">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="optical collection system for Raster-Based computer screens" />
+        </attvalues>
+      </node>
+      <node id="AMBULANT" label="AMBULANT">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="CADENCE" label="CADENCE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="QUANTUMCOOKIE" label="QUANTUMCOOKIE">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="attack vector" />
+          <attvalue for="2" value="force cookies onto target browsers" />
+        </attvalues>
+      </node>
+      <node id="ENTOURAGE" label="ENTOURAGE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Application for the HOLLOWPOINT platform, including band-specific antennas and a laptop for the command and control. Controllable via gibabit Ethernet Future plans (circa 2008) included WiFi, WiMAX and LTE." />
+        </attvalues>
+      </node>
+      <node id="unmasking" label="unmasking" />
+      <node id="MAINWAY" label="MAINWAY">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="MAINWAY is a database maintained by the NSA containing metadata for hundreds of billions of telephone calls made through the four largest telephone carriers in the United States: AT&amp;T and Verizon. It is estimated that the database contains over 1.9 trillion call-detail records. The records include detailed call information (caller, receiver, date/time of call, length of call, etc.) for use in traffic analysis[5] and social network analysis, but do not include audio information or transcripts of the content of the phone calls. Similar programs exist or are planned in other countries, including Sweden (Titan traffic database) and Great Britain (Interception Modernisation Programme)" />
+        </attvalues>
+      </node>
+      <node id="of" label="of" />
+      <node id="OMNIGAT" label="OMNIGAT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="o" label="o" />
+      <node id="CUSTOMS" label="CUSTOMS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="PAINTEDEAGLE" label="PAINTEDEAGLE">
+        <attvalues>
+          <attvalue for="0" value="compartiment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents." />
+        </attvalues>
+      </node>
+      <node id="PARCHDUSK" label="PARCHDUSK">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="unknown" />
+        </attvalues>
+      </node>
+      <node id="CTX4000" label="CTX4000">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A portable radar wave generator, can produce up to 1kW, output, with the use of external amplifies. designed for  [[VAGRANT]] and [[DROPMIRE]]. Obsolete, replaced by PHOTOANGLO." />
+        </attvalues>
+      </node>
+      <node id="MONKEYROCKET" label="MONKEYROCKET">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Sub-program of [[OAKSTAR]], aka [[US-3206]] (PDDG:6T)." />
+        </attvalues>
+      </node>
+      <node id="STINGRAY" label="STINGRAY" />
+      <node id="ARTIFICE" label="ARTIFICE">
+        <attvalues>
+          <attvalue for="0" value="compartment" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A  sigad known as [[STORMBREW]], for example, relies on two unnamed  corporate  partners described only as ARTIFICE and WOLFPOINT. According  to an NSA  site inventory, the companies administer the NSA’s “physical  systems,”  or interception equipment, and “NSA asks nicely for  tasking/updates.”" />
+        </attvalues>
+      </node>
+      <node id="COURIERSKILL" label="COURIERSKILL">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Collection mission system." />
+        </attvalues>
+      </node>
+      <node id="BROKER" label="BROKER">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="HUSH PUPPY" label="HUSH PUPPY">
+        <attvalues>
+          <attvalue for="0" value="unknown" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="GCHQ Tool, related to exploitation" />
+        </attvalues>
+      </node>
+      <node id="JUNIORMINT" label="JUNIORMINT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A generic, programmable miniature computer. For use in concealed bugs. Specs: 400Mhz ARM 9 microcontroller, 32 MB Flash, 64 MB SDRAM, 128MB DDR2 and an “XC4VLX25 10752 Slice” FPGA." />
+        </attvalues>
+      </node>
+      <node id="VIEWPLATE" label="VIEWPLATE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Replacement for the [[NIGHTWATCH]] system." />
+        </attvalues>
+      </node>
+      <node id="]" label="]" />
+      <node id="MINERALIZE" label="MINERALIZE">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="collection from LAN Implant" />
+        </attvalues>
+      </node>
+      <node id="ZESTYLEAK" label="ZESTYLEAK">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="a software exploit made by CES for Juniper Netscreen ns5xt, ns50, ns200, ns500, ISG 1000 firewalls" />
+        </attvalues>
+      </node>
+      <node id="QFIRE" label="QFIRE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="System used for infecting computers. Involves both TURMOIL, TURBINE, and additional infrastructure. Co-opted routers, according to Appelbaum, these may in cases be unwitting home or business routers, that have been “pwned”. The Goal seems to be to reduce latency, and therefor increase  the success rate of QUANTUMINSERT/FOXACID attacks." />
+        </attvalues>
+      </node>
+      <node id="compliant" label="compliant" />
+      <node id="GECKO II" label="GECKO II">
+        <attvalues>
+          <attvalue for="0" value="Process" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="IRONCHEF example included A hardware implant (MRRF or GSM), IRONCHEF persistence backdoor, “Software implant UNITEDRAKE Node”" />
+        </attvalues>
+      </node>
+      <node id="SURREY" label="SURREY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="AUTOSOURCE" label="AUTOSOURCE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="HUSH" label="HUSH" />
+      <node id="FET" label="FET">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Field Effect Transmitter" />
+        </attvalues>
+      </node>
+      <node id="AGILEVIEW" label="AGILEVIEW">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="a link with http://www.imagevisioninc.com/products/agileview ?" />
+        </attvalues>
+      </node>
+      <node id="BYZANTINEANCHOR" label="BYZANTINEANCHOR">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="“BA, a subset of Byzantine Hades, refers to a group of associated computer network intrusions with an apparent nexus to China.” (Source : Cablegate)" />
+        </attvalues>
+      </node>
+      <node id="e" label="e" />
+      <node id="with" label="with" />
+      <node id="BEACHHEAD" label="BEACHHEAD">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="Computer exploit delivered by the  [[FERRETCANNON] system." />
+        </attvalues>
+      </node>
+      <node id="OLYMPUS" label="OLYMPUS">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="OLYMPUS (OLYMPUSFIRE ?) is an exploitation system that uses a software implant on a Microsoft Windows based target PC to gain complete access to the targeted PC. The target, when connected to the Internet, will contact a Listening Post (LP) located at an NSA/USSS facilities, which is online 24/7, and get ist commands automatically. There commands include directory listings, retrieving files, performing netmaps, etc. The results of the commands are then returned to the LP, where the data is collected and forwarded to CES and analysis and production elements." />
+        </attvalues>
+      </node>
+      <node id="ORANGECRUSH" label="ORANGECRUSH">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Subprogram of [[OAKSTAR]], aka [[US-3230]] (PDDG:0B)." />
+        </attvalues>
+      </node>
+      <node id="STEELKNIGHT" label="STEELKNIGHT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="TOTEGHOSTLY" label="TOTEGHOSTLY">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Malware  for Windows Mobile -based handsets. Written using DNT's [[CHIMNEYPOOL]]  framework, and controlled via [[STRAITBIZARRE]]. Used to infiltrate and  exfiltrate files, SMS, contact lists, geolocation via SMS or GPRS data  connection. From or to the victim device The attacker has the ability to  control the camera and microphone, and also send other commands to the  device. The encrypted protocol it uses to communicate is referred to as  [[FRIEZERAMP]]." />
+        </attvalues>
+      </node>
+      <node id="Vista" label="Vista" />
+      <node id="m" label="m" />
+      <node id="HOLLOWPOINT" label="HOLLOWPOINT">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="GSM/UTMS/CSMA2000/FRS signal platform. Operates In the 10MHz to 4GHz range. Includes receiver and antenna. Can both transmit and receive." />
+        </attvalues>
+      </node>
+      <node id="IRATEMONK" label="IRATEMONK">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="unknown" />
+          <attvalue for="2" value="provides software application persistence on desktop and laptop computers by implanting the hard drive firmware to gain execution throught Master Boot Record (MBR) substitution. This technique supports systems without RAID hardware that boot from a variety of Western Digital, Seagate, Maxtor and Samsung hard drives. Through remote access or intediction, [[UNITEDRAKE]], or [[STRAITBAZZARE]] are used in conjunction with [[SLICKERVICAR]] to upload the hard drive firmware onto the target machine to implant IRATEMONK and its payload (the implant installer). Once implanted, IRATEMONK's frequency of execution (dropping the payload) is configurable and will occur when the target machine powers on." />
+        </attvalues>
+      </node>
+      <node id="EVENINGEASEL" label="EVENINGEASEL">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Program for surveillance of phone and text communications from Mexico's cell phone network." />
+        </attvalues>
+      </node>
+      <node id="MARINA" label="MARINA">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="MARINA is a metadata database for the NSA, it aggregates NSA metadata from a large scale of sources. Any computer metadata picked up by NSA is routed in this system. MARINA tracks the browser datas, gathering contacts and contents of a user. MARINA can look in the last 365 days of DNI such as page request, emails, voice over IP, pictures (by webcam), list of logins/passwords for each « contact » (and not &quot;target&quot;)..." />
+        </attvalues>
+      </node>
+      <node id="OCTSKYWARD" label="OCTSKYWARD">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="GENESIS" label="GENESIS">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="A  spectrum analyzer tool, for covertly collecting and locating signals. A  modified Motorola handset. Information downloaded to a laptop via  ethernet port." />
+        </attvalues>
+      </node>
+      <node id="TURMOIL" label="TURMOIL">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="TURMOIL is involved in the process of decrypting communications by using Deep Packet Inspection ( Passive dragnet surveillance sensors)." />
+        </attvalues>
+      </node>
+      <node id="QUICKANT QFD" label="QUICKANT QFD">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="GCHQ tor analytics/knowledgebase" />
+        </attvalues>
+      </node>
+      <node id="NIGHTWATCH" label="NIGHTWATCH">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Specialized system for processing, reconstructing and displaying video signals collected by [[VAGRANT]]. And returned to a [[CSX4000]] or a [[PHOTOANGLO]] system. Obsoleted, replaced by [[VIEWPLATE]]" />
+        </attvalues>
+      </node>
+      <node id="HIGHLANDS" label="HIGHLANDS">
+        <attvalues>
+          <attvalue for="0" value="attack vector" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="spywares implants. Collection from Implants" />
+        </attvalues>
+      </node>
+      <node id="Windows" label="Windows" />
+      <node id="STRONGMITE" label="STRONGMITE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="somewhere on the ROC side of operations..." />
+        </attvalues>
+      </node>
+      <node id="RONIN" label="RONIN">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Database of tor events" />
+        </attvalues>
+      </node>
+      <node id="YACHTSTOP" label="YACHTSTOP" />
+      <node id="YACHTSHOP" label="YACHTSHOP">
+        <attvalues>
+          <attvalue for="0" value="program" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Subprogram of [[OAKSTAR]], aka [[US-3247]] (PDDG:PJ)" />
+        </attvalues>
+      </node>
+      <node id="NEWTONSCRADLE" label="NEWTONSCRADLE">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="[[GCHQ]]-run Tor nodes" />
+        </attvalues>
+      </node>
+      <node id="SERUM" label="SERUM">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="Spotted on [[IRATEMONK]] diagram" />
+        </attvalues>
+      </node>
+      <node id="2003" label="2003" />
+      <node id="2000" label="2000" />
+      <node id="u" label="u" />
+      <node id="ALPHA" label="ALPHA">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+      <node id="FASCIA" label="FASCIA">
+        <attvalues>
+          <attvalue for="0" value="undefined" />
+          <attvalue for="1" value="undefined" />
+          <attvalue for="2" value="undefined" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="QUANTUMCOPPER" target="QUANTUM" weight="10" />
+      <edge id="1" source="QUANTUMCOPPER" target="FOXACID" weight="5" />
+      <edge id="2" source="LOUDAUTO" target="CTX4000" weight="5" />
+      <edge id="3" source="LOUDAUTO" target="DROPMIRE" weight="5" />
+      <edge id="4" source="LOUDAUTO" target="ANGRYNEIGHBOR" weight="10" />
+      <edge id="5" source="LOUDAUTO" target="PHOTOANGLO" weight="5" />
+      <edge id="6" source="LOUDAUTO" target="VARGANT" weight="5" />
+      <edge id="7" source="Byzantine" target="LEGION(JADE)" weight="15" />
+      <edge id="8" source="Byzantine" target="LEGION(RUBY)" weight="15" />
+      <edge id="9" source="CW" target="CTX4000" weight="5" />
+      <edge id="10" source="CW" target="ANGRYNEIGHBOR" weight="10" />
+      <edge id="11" source="CW" target="PHOTOANGLO" weight="5" />
+      <edge id="12" source="CW" target="VAGRANT" weight="10" />
+      <edge id="13" source="CW" target="RAGEMASTER" weight="5" />
+      <edge id="14" source="CM-III" target="FIREWALK" weight="5" />
+      <edge id="15" source="DANDERSPRIT" target="DANDERSPRITZ" weight="10" />
+      <edge id="16" source="GOTHAM" target="VAGRANT" weight="5" />
+      <edge id="17" source="GOTHAM" target="RAGEMASTER" weight="5" />
+      <edge id="18" source="to" target="HUSH PUPPY" weight="5" />
+      <edge id="19" source="to" target="GEOFUSION" weight="5" />
+      <edge id="20" source="SCHOOLMONTANA" target="TAO" weight="5" />
+      <edge id="21" source="SCHOOLMONTANA" target="VALIDATOR" weight="10" />
+      <edge id="22" source="SCHOOLMONTANA" target="STUCCOMONTANA" weight="5" />
+      <edge id="23" source="SCHOOLMONTANA" target="SIERRAMONTANA" weight="10" />
+      <edge id="24" source="DANDERSPRITZ" target="FIREWALK" weight="5" />
+      <edge id="25" source="TAO" target="BANANAGLEE" weight="5" />
+      <edge id="26" source="TAO" target="GOPHERSET" weight="5" />
+      <edge id="27" source="TAO" target="SURLYSPAWN" weight="5" />
+      <edge id="28" source="TAO" target="HEADWATER" weight="5" />
+      <edge id="29" source="TAO" target="SOUFFLETROUGH" weight="5" />
+      <edge id="30" source="TAO" target="ROC" weight="5" />
+      <edge id="31" source="TAO" target="IRONCHEF" weight="5" />
+      <edge id="32" source="Tailored" target="BACONRIDGE" weight="5" />
+      <edge id="33" source="QUANTUMBOT" target="QUANTUM" weight="10" />
+      <edge id="34" source="QUANTUMBOT" target="FOXACID" weight="5" />
+      <edge id="35" source="QUANTUMSKY" target="QUANTUM" weight="10" />
+      <edge id="36" source="QUANTUMSKY" target="FOXACID" weight="5" />
+      <edge id="37" source="TOTECHASER" target="TOTEGHOSTLY" weight="10" />
+      <edge id="38" source="TUMULT" target="QUANTUM" weight="5" />
+      <edge id="39" source="TUMULT" target="TURBULANCE" weight="5" />
+      <edge id="40" source="TUMULT" target="FOXACID" weight="5" />
+      <edge id="41" source="NEBULA" target="CANDYGRAM" weight="10" />
+      <edge id="42" source="NEBULA" target="EBSR" weight="10" />
+      <edge id="43" source="NEBULA" target="TYPHON" weight="10" />
+      <edge id="44" source="NEBULA" target="CYCLONE" weight="10" />
+      <edge id="45" source="NEBULA" target="DRTBOX" weight="10" />
+      <edge id="46" source="NEBULA" target="HOLLOWPOINT" weight="5" />
+      <edge id="47" source="p" target="a" weight="8" />
+      <edge id="48" source="p" target=" " weight="3" />
+      <edge id="49" source="p" target="c" weight="7" />
+      <edge id="50" source="p" target="b" weight="1" />
+      <edge id="51" source="p" target="e" weight="8" />
+      <edge id="52" source="p" target="d" weight="1" />
+      <edge id="53" source="p" target="g" weight="3" />
+      <edge id="54" source="p" target="i" weight="1" />
+      <edge id="55" source="p" target="m" weight="6" />
+      <edge id="56" source="p" target="l" weight="2" />
+      <edge id="57" source="p" target="o" weight="8" />
+      <edge id="58" source="p" target="n" weight="2" />
+      <edge id="59" source="p" target="s" weight="7" />
+      <edge id="60" source="p" target="r" weight="10" />
+      <edge id="61" source="p" target="t" weight="8" />
+      <edge id="62" source="q" target="c" weight="1" />
+      <edge id="63" source="q" target="e" weight="2" />
+      <edge id="64" source="q" target="i" weight="1" />
+      <edge id="65" source="q" target="h" weight="1" />
+      <edge id="66" source="q" target="n" weight="1" />
+      <edge id="67" source="q" target="u" weight="1" />
+      <edge id="68" source="q" target="t" weight="1" />
+      <edge id="69" source="ENDUE" target="BULLRUN" weight="5" />
+      <edge id="70" source="LEGION(JADE)" target="Candor" weight="5" />
+      <edge id="71" source="LEGION(JADE)" target="FLYING" weight="5" />
+      <edge id="72" source="LEGION(JADE)" target="Hades" weight="5" />
+      <edge id="73" source="LEGION(JADE)" target="PIG" weight="5" />
+      <edge id="74" source="LEGION(JADE)" target="HUSH" weight="5" />
+      <edge id="75" source="LEGION(JADE)" target="Anchor." weight="5" />
+      <edge id="76" source="LEGION(JADE)" target="PUPPY" weight="5" />
+      <edge id="77" source="SHIFTINGSHADOW" target="OAKSTAR" weight="10" />
+      <edge id="78" source="FOXACID." target="QFIRE" weight="5" />
+      <edge id="79" source="MAESTRO" target="TRINITY" weight="5" />
+      <edge id="80" source="MAESTRO" target="JUNIORMINT" weight="5" />
+      <edge id="81" source="MAESTRO" target="HC12" weight="5" />
+      <edge id="82" source="n" target="a" weight="4" />
+      <edge id="83" source="n" target="c" weight="3" />
+      <edge id="84" source="n" target="b" weight="2" />
+      <edge id="85" source="n" target="e" weight="9" />
+      <edge id="86" source="n" target="g" weight="4" />
+      <edge id="87" source="n" target="i" weight="4" />
+      <edge id="88" source="n" target="h" weight="3" />
+      <edge id="89" source="n" target="k" weight="9" />
+      <edge id="90" source="n" target="m" weight="4" />
+      <edge id="91" source="n" target="o" weight="13" />
+      <edge id="92" source="n" target="n" weight="7" />
+      <edge id="93" source="n" target="r" weight="8" />
+      <edge id="94" source="n" target="u" weight="7" />
+      <edge id="95" source="n" target="t" weight="8" />
+      <edge id="96" source="n" target="w" weight="9" />
+      <edge id="97" source="n" target="y" weight="2" />
+      <edge id="98" source="n" target="[" weight="4" />
+      <edge id="99" source="n" target="]" weight="4" />
+      <edge id="100" source="STRAITBAZZARE" target="IRATEMONK" weight="5" />
+      <edge id="101" source="CANDYGRAM" target="CANDYGRAM" weight="5" />
+      <edge id="102" source="CANDYGRAM" target="EBSR" weight="5" />
+      <edge id="103" source="CANDYGRAM" target="TYPHON" weight="10" />
+      <edge id="104" source="CANDYGRAM" target="CYCLONE" weight="10" />
+      <edge id="105" source="CANDYGRAM" target="STINGRAY" weight="5" />
+      <edge id="106" source="CANDYGRAM" target="DRTBOX" weight="10" />
+      <edge id="107" source="XKEYSCORE" target="TRAFFICTHIEF" weight="5" />
+      <edge id="108" source="XKEYSCORE" target="STORMBREW" weight="5" />
+      <edge id="109" source="XKEYSCORE" target="OCELOT" weight="5" />
+      <edge id="110" source="XKEYSCORE" target="MADCAPOCELOT" weight="5" />
+      <edge id="111" source="XKEYSCORE" target="FOXACID" weight="5" />
+      <edge id="112" source="BLUEANCHOR" target="YACHTSTOP" weight="5" />
+      <edge id="113" source="BLUEANCHOR" target="OAKSTAR" weight="5" />
+      <edge id="114" source="WOLFPOINT" target="STORMBREW" weight="5" />
+      <edge id="115" source="WOLFPOINT" target="ARTIFICE" weight="10" />
+      <edge id="116" source="PITCHFORD" target="BULLRUN" weight="10" />
+      <edge id="117" source="MADCAPOCELOT" target="MARINA" weight="5" />
+      <edge id="118" source="MADCAPOCELOT" target="STORMBREW" weight="10" />
+      <edge id="119" source="MADCAPOCELOT" target="PINWALE" weight="5" />
+      <edge id="120" source=" " target="a" weight="43" />
+      <edge id="121" source=" " target=" " weight="6" />
+      <edge id="122" source=" " target="c" weight="25" />
+      <edge id="123" source=" " target="b" weight="5" />
+      <edge id="124" source=" " target="e" weight="29" />
+      <edge id="125" source=" " target="d" weight="7" />
+      <edge id="126" source=" " target="g" weight="7" />
+      <edge id="127" source=" " target="f" weight="3" />
+      <edge id="128" source=" " target="h" weight="2" />
+      <edge id="129" source=" " target="k" weight="7" />
+      <edge id="130" source=" " target="l" weight="12" />
+      <edge id="131" source=" " target="o" weight="15" />
+      <edge id="132" source=" " target="s" weight="14" />
+      <edge id="133" source=" " target="r" weight="20" />
+      <edge id="134" source=" " target="t" weight="45" />
+      <edge id="135" source=" " target="w" weight="5" />
+      <edge id="136" source=" " target="v" weight="3" />
+      <edge id="137" source=" " target="|" weight="6" />
+      <edge id="138" source="FEEDTROUGH" target="BANANAGLEE" weight="10" />
+      <edge id="139" source="FEEDTROUGH" target="ZESTYLEAK" weight="10" />
+      <edge id="140" source="VALIDATOR" target="COMMONDEER" weight="5" />
+      <edge id="141" source="VALIDATOR" target="FOXACID" weight="5" />
+      <edge id="142" source="VALIDATOR" target="STUCCOMONTANA" weight="5" />
+      <edge id="143" source="VALIDATOR" target="QUANTUMNATION" weight="5" />
+      <edge id="144" source="VALIDATOR" target="SEASONEDMOTH" weight="5" />
+      <edge id="145" source="VALIDATOR" target="OLYMPUS" weight="15" />
+      <edge id="146" source="VALIDATOR" target="UNITEDRAKE" weight="5" />
+      <edge id="147" source="VALIDATOR" target="SOMBERKNAVE" weight="10" />
+      <edge id="148" source="VALIDATOR" target="SIERRAMONTANA" weight="10" />
+      <edge id="149" source="CHIMNEYPOOL" target="TOTEGHOSTLY" weight="5" />
+      <edge id="150" source="CHIMNEYPOOL" target="CROSSBEAM" weight="5" />
+      <edge id="151" source="CHIMNEYPOOL" target="DROPOUTJEEP" weight="10" />
+      <edge id="152" source="CHIMNEYPOOL" target="COTTONMOUTH-1" weight="10" />
+      <edge id="153" source="CHIMNEYPOOL" target="COTTONMOUTH-2" weight="10" />
+      <edge id="154" source="CHIMNEYPOOL" target="COTTONMOUTH-3" weight="10" />
+      <edge id="155" source="GENIE" target="TOTEGHOSTLY" weight="5" />
+      <edge id="156" source="[" target="a" weight="2" />
+      <edge id="157" source="[" target="b" weight="2" />
+      <edge id="158" source="[" target="e" weight="2" />
+      <edge id="159" source="[" target="g" weight="4" />
+      <edge id="160" source="[" target="i" weight="2" />
+      <edge id="161" source="[" target="h" weight="2" />
+      <edge id="162" source="[" target="o" weight="2" />
+      <edge id="163" source="[" target="r" weight="4" />
+      <edge id="164" source="[" target="y" weight="2" />
+      <edge id="165" source="[" target="[" weight="1" />
+      <edge id="166" source="[" target="]" weight="4" />
+      <edge id="167" source="k" target="a" weight="21" />
+      <edge id="168" source="k" target="c" weight="13" />
+      <edge id="169" source="k" target="e" weight="10" />
+      <edge id="170" source="k" target="g" weight="2" />
+      <edge id="171" source="k" target="f" weight="1" />
+      <edge id="172" source="k" target="o" weight="10" />
+      <edge id="173" source="k" target="s" weight="1" />
+      <edge id="174" source="k" target="r" weight="9" />
+      <edge id="175" source="k" target="u" weight="2" />
+      <edge id="176" source="k" target="t" weight="30" />
+      <edge id="177" source="k" target="w" weight="6" />
+      <edge id="178" source="k" target="v" weight="4" />
+      <edge id="179" source="k" target="|" weight="1" />
+      <edge id="180" source="exploitation" target="FUNNELOUT" weight="5" />
+      <edge id="181" source="WAGONBED" target="GODSURGE" weight="5" />
+      <edge id="182" source="WAGONBED" target="FLUXBABBIT" weight="5" />
+      <edge id="183" source="WAGONBED" target="CROSSBEAM" weight="10" />
+      <edge id="184" source="WAGONBED" target="IRONCHEF" weight="10" />
+      <edge id="185" source="AUNTIE" target="BULLRUN" weight="10" />
+      <edge id="186" source="VAGRANT" target="PHOTOANGLO" weight="5" />
+      <edge id="187" source="VAGRANT" target="VIEWPLATE" weight="5" />
+      <edge id="188" source="VAGRANT" target="TAWDRYYARD" weight="5" />
+      <edge id="189" source="VAGRANT" target="LS-2" weight="5" />
+      <edge id="190" source="VAGRANT" target="RAGEMASTER" weight="5" />
+      <edge id="191" source="VAGRANT" target="CTX4000" weight="10" />
+      <edge id="192" source="VAGRANT" target="DROPMIRE" weight="10" />
+      <edge id="193" source="VAGRANT" target="NIGHTWATCH" weight="10" />
+      <edge id="194" source="WISTFULTOLL" target="STRAITBIZARRE" weight="5" />
+      <edge id="195" source="WISTFULTOLL" target="SEAGULLFARO" weight="10" />
+      <edge id="196" source="WISTFULTOLL" target="QIM/JMSQ" weight="5" />
+      <edge id="197" source="WISTFULTOLL" target="IRATEMONK" weight="5" />
+      <edge id="198" source="WISTFULTOLL" target="UNITEDRAKE" weight="5" />
+      <edge id="199" source="WISTFULTOLL" target="RETURNSPRING" weight="10" />
+      <edge id="200" source="WISTFULTOLL" target="CDRDIODE" weight="5" />
+      <edge id="201" source="SILVERZEPHYR" target="OAKSTAR" weight="10" />
+      <edge id="202" source="SILVERZEPHYR" target="STEELKNIGHT" weight="5" />
+      <edge id="203" source="TUTELAGE" target="TURBULENCE" weight="5" />
+      <edge id="204" source="NUCLEON" target="PRISM" weight="5" />
+      <edge id="205" source="NUCLEON" target="CONVEYANCE" weight="5" />
+      <edge id="206" source="CONVEYANCE" target="PRISM" weight="10" />
+      <edge id="207" source="UNITEDRAKE" target="OLYMPUS" weight="5" />
+      <edge id="208" source="UNITEDRAKE" target="FERRETCANNON" weight="5" />
+      <edge id="209" source="UNITEDRAKE" target="FOXACID" weight="5" />
+      <edge id="210" source="UNITEDRAKE" target="IRATEMONK" weight="10" />
+      <edge id="211" source="UNITEDRAKE" target="CDRDIODE" weight="5" />
+      <edge id="212" source="SIERRAMONTANA" target="STUCCOMONTANA" weight="5" />
+      <edge id="213" source="diagrams" target="SEAGULLFARO" weight="5" />
+      <edge id="214" source="diagrams" target="QIM/JMSQ" weight="5" />
+      <edge id="215" source="diagrams" target="RETURNSPRING" weight="5" />
+      <edge id="216" source="ARKSTREAM" target="DEITYBOUNCE" weight="5" />
+      <edge id="217" source="ARKSTREAM" target="SWAP" weight="5" />
+      <edge id="218" source="ARKSTREAM" target="TUNINGFORK" weight="5" />
+      <edge id="219" source="PENDLETON" target="BULLRUN" weight="10" />
+      <edge id="220" source="FERRETCANNON" target="QUANTUM" weight="5" />
+      <edge id="221" source="FERRETCANNON" target="BEACHHEAD" weight="5" />
+      <edge id="222" source="FERRETCANNON" target="PEDDLECHEAP" weight="5" />
+      <edge id="223" source="FERRETCANNON" target="FOXACID" weight="5" />
+      <edge id="224" source="HALLUXWATER" target="TURBOPANDA" weight="5" />
+      <edge id="225" source="LFS-2" target="PHOTOANGLO" weight="5" />
+      <edge id="226" source="LFS-2" target="NIGHTWATCH" weight="5" />
+      <edge id="227" source="JETPLOW" target="BANANAGLEE" weight="10" />
+      <edge id="228" source="IRONCHEF" target="STRONGMITE" weight="5" />
+      <edge id="229" source="IRONCHEF" target="GECKO II" weight="5" />
+      <edge id="230" source="IRONCHEF" target="CRUMPET" weight="5" />
+      <edge id="231" source="v" target="a" weight="8" />
+      <edge id="232" source="v" target="c" weight="8" />
+      <edge id="233" source="v" target="e" weight="4" />
+      <edge id="234" source="v" target="o" weight="4" />
+      <edge id="235" source="v" target="r" weight="4" />
+      <edge id="236" source="v" target="t" weight="12" />
+      <edge id="237" source="process" target="GHOSTMACHINE" weight="5" />
+      <edge id="238" source="“DROPOUTJEEP" target="FREEFLOW" weight="5" />
+      <edge id="239" source="FOXACID" target="QUANTUMCOOKIE" weight="5" />
+      <edge id="240" source="FOXACID" target="TURMOIL" weight="5" />
+      <edge id="241" source="FOXACID" target="BEACHHEAD" weight="5" />
+      <edge id="242" source="FOXACID" target="BLARNEY|" weight="5" />
+      <edge id="243" source="FOXACID" target="QUANTUM INSERT" weight="5" />
+      <edge id="244" source="FOXACID" target="DARKTHUNDER" weight="5" />
+      <edge id="245" source="FOXACID" target="QUANTUMNATION" weight="5" />
+      <edge id="246" source="FOXACID" target="OAKSTAR" weight="10" />
+      <edge id="247" source="FOXACID" target="FAIRVIEW" weight="5" />
+      <edge id="248" source="FOXACID" target="QUANTUM" weight="10" />
+      <edge id="249" source="FOXACID" target="TURBULENCE" weight="5" />
+      <edge id="250" source="FOXACID" target="STORMBREW" weight="5" />
+      <edge id="251" source="FOXACID" target="QUANTUMTHEORY" weight="5" />
+      <edge id="252" source="SOMBERKNAVE" target="OLYMPUS" weight="10" />
+      <edge id="253" source="QUANTUMINSERT" target="SSO" weight="5" />
+      <edge id="254" source="THINTREAD" target="TRAILBLAZER" weight="5" />
+      <edge id="255" source="COTTONMOUTH-II" target="STRAITBIZARRE" weight="5" />
+      <edge id="256" source="w" target="a" weight="12" />
+      <edge id="257" source="w" target="c" weight="1" />
+      <edge id="258" source="w" target="e" weight="10" />
+      <edge id="259" source="w" target="d" weight="3" />
+      <edge id="260" source="w" target="f" weight="4" />
+      <edge id="261" source="w" target="h" weight="3" />
+      <edge id="262" source="w" target="o" weight="9" />
+      <edge id="263" source="w" target="s" weight="4" />
+      <edge id="264" source="w" target="r" weight="12" />
+      <edge id="265" source="w" target="u" weight="2" />
+      <edge id="266" source="w" target="t" weight="9" />
+      <edge id="267" source="w" target="w" weight="1" />
+      <edge id="268" source="w" target="|" weight="2" />
+      <edge id="269" source="SOUFFLETROUGH" target="BANANAGLEE" weight="10" />
+      <edge id="270" source="HC12" target="II" weight="5" />
+      <edge id="271" source="HC12" target="JUNIORMINT" weight="5" />
+      <edge id="272" source="HC12" target="TRINITY" weight="5" />
+      <edge id="273" source="a" target="]" weight="2" />
+      <edge id="274" source="a" target="a" weight="31" />
+      <edge id="275" source="a" target="c" weight="51" />
+      <edge id="276" source="a" target="b" weight="11" />
+      <edge id="277" source="a" target="e" weight="57" />
+      <edge id="278" source="a" target="d" weight="15" />
+      <edge id="279" source="a" target="g" weight="16" />
+      <edge id="280" source="a" target="f" weight="7" />
+      <edge id="281" source="a" target="i" weight="2" />
+      <edge id="282" source="a" target="h" weight="6" />
+      <edge id="283" source="a" target="m" weight="6" />
+      <edge id="284" source="a" target="l" weight="16" />
+      <edge id="285" source="a" target="o" weight="32" />
+      <edge id="286" source="a" target="s" weight="25" />
+      <edge id="287" source="a" target="r" weight="49" />
+      <edge id="288" source="a" target="t" weight="103" />
+      <edge id="289" source="a" target="y" weight="1" />
+      <edge id="290" source="a" target="|" weight="9" />
+      <edge id="291" source="HAMMERMILL" target="HAMMERMILL" weight="5" />
+      <edge id="292" source="HAMMERMILL" target="HEADWATER" weight="10" />
+      <edge id="293" source="HAMMERMILL" target="Tool" weight="5" />
+      <edge id="294" source="HAMMERMILL" target="(HIT)" weight="5" />
+      <edge id="295" source="HAMMERMILL" target="See" weight="5" />
+      <edge id="296" source="HAMMERMILL" target="Insertion" weight="5" />
+      <edge id="297" source="TRAILBLAZER" target="TURBULENCE" weight="5" />
+      <edge id="298" source="TRAILBLAZER" target="TURBINE" weight="5" />
+      <edge id="299" source="TURBOPANDA" target="HEADWATER" weight="5" />
+      <edge id="300" source="COTTONMOUTH-III" target="STRAITBIZARRE" weight="5" />
+      <edge id="301" source="mentioned" target="BLACKPEARL" weight="5" />
+      <edge id="302" source="mentioned" target="MULLENIZE" weight="5" />
+      <edge id="303" source="mentioned" target="FUNNELOUT" weight="5" />
+      <edge id="304" source="RETURNSPRING" target="Spotted" weight="5" />
+      <edge id="305" source="RETURNSPRING" target="on" weight="5" />
+      <edge id="306" source="RETURNSPRING" target="IRATEMONK" weight="5" />
+      <edge id="307" source="Candor" target="LEGION(RUBY)" weight="5" />
+      <edge id="308" source="FLYING" target="LEGION(RUBY)" weight="5" />
+      <edge id="309" source="TAWDRYYARD" target="PHOTOANGLO" weight="5" />
+      <edge id="310" source="TAWDRYYARD" target="SURLYSPAWN" weight="5" />
+      <edge id="311" source="TAWDRYYARD" target="RAGEMASTER" weight="10" />
+      <edge id="312" source="TAWDRYYARD" target="CTX4000" weight="5" />
+      <edge id="313" source="TAWDRYYARD" target="DROPMIRE" weight="5" />
+      <edge id="314" source="TAWDRYYARD" target="ANGRYNEIGHBOR" weight="5" />
+      <edge id="315" source="systems" target="GINSU" weight="5" />
+      <edge id="316" source="QUICKANT" target="GREATEXPECTATIONS" weight="5" />
+      <edge id="317" source="COTTONMOUTH-1" target="STRAITBIZARRE" weight="5" />
+      <edge id="318" source="COTTONMOUTH-1" target="PROTOSS" weight="5" />
+      <edge id="319" source="COTTONMOUTH-1" target="TURBINE" weight="5" />
+      <edge id="320" source="COTTONMOUTH-1" target="COTTONMOUTH-3" weight="10" />
+      <edge id="321" source="COTTONMOUTH-1" target="COTTONMOUTH-2" weight="10" />
+      <edge id="322" source="COTTONMOUTH-2" target="STRAITBIZARRE" weight="5" />
+      <edge id="323" source="COTTONMOUTH-2" target="PROTOSS" weight="5" />
+      <edge id="324" source="COTTONMOUTH-2" target="TURBINE" weight="5" />
+      <edge id="325" source="COTTONMOUTH-2" target="COTTONMOUTH-3" weight="10" />
+      <edge id="326" source="COTTONMOUTH-3" target="STRAITBIZARRE" weight="5" />
+      <edge id="327" source="COTTONMOUTH-3" target="HOWLERMONKEY" weight="5" />
+      <edge id="328" source="COTTONMOUTH-3" target="SPECULATION" weight="5" />
+      <edge id="329" source="COTTONMOUTH-3" target="TRINITY" weight="5" />
+      <edge id="330" source="Spotted" target="SEAGULLFARO" weight="5" />
+      <edge id="331" source="Spotted" target="QIM/JMSQ" weight="5" />
+      <edge id="332" source="ROCKYKNOB" target="See" weight="5" />
+      <edge id="333" source="ROCKYKNOB" target="CROSSBEAM" weight="10" />
+      <edge id="334" source="STORMBREW" target="PINWALE" weight="5" />
+      <edge id="335" source="STORMBREW" target="ARTIFICE" weight="5" />
+      <edge id="336" source="STORMBREW" target="UPSTREAM" weight="5" />
+      <edge id="337" source="STORMBREW" target="OCELOT" weight="5" />
+      <edge id="338" source="STORMBREW" target="MARINA" weight="5" />
+      <edge id="339" source="STORMBREW" target="STORMBREW" weight="5" />
+      <edge id="340" source="BANANAGLEE" target="GOURMETTROUGH" weight="5" />
+      <edge id="341" source="BANANAGLEE" target="GOPHERSET" weight="5" />
+      <edge id="342" source="l" target="c" weight="18" />
+      <edge id="343" source="l" target="b" weight="4" />
+      <edge id="344" source="l" target="e" weight="18" />
+      <edge id="345" source="l" target="d" weight="4" />
+      <edge id="346" source="l" target="g" weight="4" />
+      <edge id="347" source="l" target="l" weight="4" />
+      <edge id="348" source="l" target="o" weight="10" />
+      <edge id="349" source="l" target="s" weight="8" />
+      <edge id="350" source="l" target="r" weight="6" />
+      <edge id="351" source="l" target="t" weight="20" />
+      <edge id="352" source="l" target="|" weight="2" />
+      <edge id="353" source="COMMONMOUTH-1" target="HOWLERMONKEY" weight="5" />
+      <edge id="354" source="|" target="c" weight="3" />
+      <edge id="355" source="|" target="b" weight="1" />
+      <edge id="356" source="|" target="e" weight="5" />
+      <edge id="357" source="|" target="d" weight="2" />
+      <edge id="358" source="|" target="g" weight="1" />
+      <edge id="359" source="|" target="f" weight="1" />
+      <edge id="360" source="|" target="h" weight="1" />
+      <edge id="361" source="|" target="o" weight="2" />
+      <edge id="362" source="|" target="s" weight="2" />
+      <edge id="363" source="|" target="r" weight="4" />
+      <edge id="364" source="|" target="t" weight="7" />
+      <edge id="365" source="PHOTOANGLO" target="VIEWPLATE" weight="5" />
+      <edge id="366" source="PHOTOANGLO" target="CTX4000" weight="5" />
+      <edge id="367" source="PHOTOANGLO" target="DROPMIRE" weight="5" />
+      <edge id="368" source="PHOTOANGLO" target="NIGHTWATCH" weight="5" />
+      <edge id="369" source="STRIKEZONE" target="HOWLERMONKEY" weight="5" />
+      <edge id="370" source="related" target="HUSH PUPPY" weight="5" />
+      <edge id="371" source="related" target="GEOFUSION" weight="5" />
+      <edge id="372" source="TWISTEDKILT" target="SWAP" weight="10" />
+      <edge id="373" source="TWISTEDKILT" target="TUNINGFORK" weight="5" />
+      <edge id="374" source="TURBULENCE" target="TOTEGHOSTLY" weight="5" />
+      <edge id="375" source="TURBULENCE" target="DROPOUTJEEP" weight="5" />
+      <edge id="376" source="SEAGULLFARO" target="on" weight="5" />
+      <edge id="377" source="SEAGULLFARO" target="IRATEMONK" weight="5" />
+      <edge id="378" source="SEAGULLFARO" target="CDRDIODE" weight="5" />
+      <edge id="379" source="FREEFLOW" target="and" weight="5" />
+      <edge id="380" source="FREEFLOW" target="TOTEGHOSTLY" weight="10" />
+      <edge id="381" source="FREEFLOW" target="therefor" weight="5" />
+      <edge id="382" source="FREEFLOW" target="FREEFLOW" weight="5" />
+      <edge id="383" source="FREEFLOW" target="TURBULANCE" weight="5" />
+      <edge id="384" source="FREEFLOW" target="architecture." weight="5" />
+      <edge id="385" source="FREEFLOW" target="is" weight="10" />
+      <edge id="386" source="FREEFLOW" target="supported" weight="5" />
+      <edge id="387" source="FREEFLOW" target="compliant" weight="5" />
+      <edge id="388" source="FREEFLOW" target="it" weight="5" />
+      <edge id="389" source="FREEFLOW" target="project" weight="5" />
+      <edge id="390" source="FREEFLOW" target="DROPOUTJEEP" weight="5" />
+      <edge id="391" source="FREEFLOW" target="context" weight="5" />
+      <edge id="392" source="FREEFLOW" target="in" weight="5" />
+      <edge id="393" source="FREEFLOW" target="the" weight="10" />
+      <edge id="394" source="FREEFLOW" target="2.0" weight="5" />
+      <edge id="395" source="FREEFLOW" target="with" weight="5" />
+      <edge id="396" source="g" target="]" weight="4" />
+      <edge id="397" source="g" target="c" weight="7" />
+      <edge id="398" source="g" target="b" weight="3" />
+      <edge id="399" source="g" target="e" weight="11" />
+      <edge id="400" source="g" target="d" weight="1" />
+      <edge id="401" source="g" target="g" weight="1" />
+      <edge id="402" source="g" target="i" weight="2" />
+      <edge id="403" source="g" target="h" weight="2" />
+      <edge id="404" source="g" target="m" weight="2" />
+      <edge id="405" source="g" target="o" weight="7" />
+      <edge id="406" source="g" target="s" weight="3" />
+      <edge id="407" source="g" target="r" weight="14" />
+      <edge id="408" source="g" target="t" weight="17" />
+      <edge id="409" source="g" target="y" weight="2" />
+      <edge id="410" source="DARKTHUNDER" target="QUANTUM" weight="5" />
+      <edge id="411" source="Hades" target="LEGION(RUBY)" weight="5" />
+      <edge id="412" source="STRAITBAZARRE" target="STRAITBIZARRE" weight="5" />
+      <edge id="413" source="COMMONMOUTH-2" target="HOWLERMONKEY" weight="5" />
+      <edge id="414" source="TRAFFICTHIEF" target="PRISM" weight="5" />
+      <edge id="415" source="APERIODIC" target="BULLRUN" weight="10" />
+      <edge id="416" source="BACONRIDGE" target="Access" weight="5" />
+      <edge id="417" source="BACONRIDGE" target="Operations" weight="5" />
+      <edge id="418" source="story" target="HUSH PUPPY" weight="5" />
+      <edge id="419" source="story" target="BLACKPEARL" weight="5" />
+      <edge id="420" source="story" target="GEOFUSION" weight="5" />
+      <edge id="421" source="SPARROW" target="BLINDDATE" weight="5" />
+      <edge id="422" source="SPARROW" target="MAESTROII" weight="5" />
+      <edge id="423" source="SPARROW" target="JUNIORMINT" weight="5" />
+      <edge id="424" source="tor" target="FUNNELOUT" weight="5" />
+      <edge id="425" source="tor" target="MULLENIZE" weight="5" />
+      <edge id="426" source="ECI" target="PAINTEDEAGLE" weight="5" />
+      <edge id="427" source="ECI" target="BULLRUN" weight="5" />
+      <edge id="428" source="SWAP" target="TUNINGFORK" weight="10" />
+      <edge id="429" source="TYPHON" target="WATERWITCH" weight="5" />
+      <edge id="430" source="TYPHON" target="EBSR" weight="5" />
+      <edge id="431" source="TYPHON" target="CYCLONE" weight="10" />
+      <edge id="432" source="TYPHON" target="Hx9" weight="5" />
+      <edge id="433" source="TYPHON" target="DRTBOX" weight="10" />
+      <edge id="434" source="Petrobras" target="HUSH PUPPY" weight="5" />
+      <edge id="435" source="Petrobras" target="BLACKPEARL" weight="5" />
+      <edge id="436" source="Petrobras" target="GEOFUSION" weight="5" />
+      <edge id="437" source="DROPMIRE" target="CTX4000" weight="10" />
+      <edge id="438" source="DROPMIRE" target="ANGRYNEIGHBOR" weight="5" />
+      <edge id="439" source="XP" target="GINSU" weight="5" />
+      <edge id="440" source="b" target="c" weight="6" />
+      <edge id="441" source="b" target="e" weight="10" />
+      <edge id="442" source="b" target="d" weight="4" />
+      <edge id="443" source="b" target="i" weight="1" />
+      <edge id="444" source="b" target="h" weight="1" />
+      <edge id="445" source="b" target="o" weight="5" />
+      <edge id="446" source="b" target="s" weight="5" />
+      <edge id="447" source="b" target="r" weight="4" />
+      <edge id="448" source="b" target="t" weight="8" />
+      <edge id="449" source="b" target="y" weight="2" />
+      <edge id="450" source="b" target="]" weight="2" />
+      <edge id="451" source="target" target="GINSU" weight="5" />
+      <edge id="452" source="See" target="HOLLOWPOINT" weight="5" />
+      <edge id="453" source="See" target="MONKEYCALENDAR" weight="5" />
+      <edge id="454" source="r" target="]" weight="4" />
+      <edge id="455" source="r" target="c" weight="23" />
+      <edge id="456" source="r" target="e" weight="35" />
+      <edge id="457" source="r" target="d" weight="7" />
+      <edge id="458" source="r" target="f" weight="5" />
+      <edge id="459" source="r" target="i" weight="3" />
+      <edge id="460" source="r" target="h" weight="7" />
+      <edge id="461" source="r" target="m" weight="8" />
+      <edge id="462" source="r" target="o" weight="26" />
+      <edge id="463" source="r" target="s" weight="15" />
+      <edge id="464" source="r" target="r" weight="8" />
+      <edge id="465" source="r" target="t" weight="46" />
+      <edge id="466" source="r" target="y" weight="2" />
+      <edge id="467" source="Anchor." target="LEGION(RUBY)" weight="5" />
+      <edge id="468" source="PRISM" target="MAINWAY" weight="5" />
+      <edge id="469" source="PRISM" target="PINWALE" weight="5" />
+      <edge id="470" source="PRISM" target="FALLOUT" weight="5" />
+      <edge id="471" source="PRISM" target="MARINA" weight="5" />
+      <edge id="472" source="BLUEZEPHYR" target="OAKSTAR" weight="10" />
+      <edge id="473" source="BLINDDATE" target="QUANTUM" weight="5" />
+      <edge id="474" source="BLINDDATE" target="II" weight="5" />
+      <edge id="475" source="BLINDDATE" target="STRAITBIZARRE" weight="5" />
+      <edge id="476" source="FOXACID]]." target="PEDDLECHEAP" weight="5" />
+      <edge id="477" source="DROPOUTJEEP" target="STRAITBIZARRE" weight="10" />
+      <edge id="478" source="Hx9" target="EBSR" weight="5" />
+      <edge id="479" source="Hx9" target="DRTBOX" weight="5" />
+      <edge id="480" source="PICARESQUE" target="BULLRUN" weight="10" />
+      <edge id="481" source="DRTBOX" target="EBSR" weight="10" />
+      <edge id="482" source="DRTBOX" target="CYCLONE" weight="10" />
+      <edge id="483" source="CONJECTURE" target="HOWLERMONKEY" weight="10" />
+      <edge id="484" source="9x" target="GINSU" weight="5" />
+      <edge id="485" source="UPSTREAM" target="OAKSTAR" weight="5" />
+      <edge id="486" source="SLICKERVICAR" target="IRATEMONK" weight="10" />
+      <edge id="487" source="MAESTROII" target="II" weight="5" />
+      <edge id="488" source="MAESTROII" target="JUNIORMINT" weight="5" />
+      <edge id="489" source="MAESTROII" target="TRINITY" weight="5" />
+      <edge id="490" source="CYCLONE" target="EBSR" weight="5" />
+      <edge id="491" source="FIREWALK" target="PROTOSS" weight="5" />
+      <edge id="492" source="FIREWALK" target="RADON" weight="5" />
+      <edge id="493" source="FIREWALK" target="HOWLERMONKEY" weight="10" />
+      <edge id="494" source="FIREWALK" target="TRINITY" weight="5" />
+      <edge id="495" source="BLACKPEARL" target="of" weight="5" />
+      <edge id="496" source="BLACKPEARL" target="context" weight="5" />
+      <edge id="497" source="BLACKPEARL" target="in" weight="5" />
+      <edge id="498" source="GALAXY" target="HOLLOWPOINT" weight="5" />
+      <edge id="499" source="LANDSHARK" target="EBSR" weight="5" />
+      <edge id="500" source="h" target="c" weight="1" />
+      <edge id="501" source="h" target="e" weight="6" />
+      <edge id="502" source="h" target="d" weight="2" />
+      <edge id="503" source="h" target="f" weight="1" />
+      <edge id="504" source="h" target="i" weight="2" />
+      <edge id="505" source="h" target="o" weight="2" />
+      <edge id="506" source="h" target="s" weight="1" />
+      <edge id="507" source="h" target="u" weight="1" />
+      <edge id="508" source="h" target="t" weight="2" />
+      <edge id="509" source="h" target="y" weight="1" />
+      <edge id="510" source="h" target="]" weight="2" />
+      <edge id="511" source="SEASONEDMOTH" target="COMMONDEER" weight="10" />
+      <edge id="512" source="GINSU" target="Vista" weight="5" />
+      <edge id="513" source="GINSU" target="2003" weight="5" />
+      <edge id="514" source="GINSU" target="Windows" weight="5" />
+      <edge id="515" source="GINSU" target="OMNIGAT" weight="5" />
+      <edge id="516" source="GINSU" target="2000" weight="5" />
+      <edge id="517" source="LEGION(RUBY)" target="PIG" weight="5" />
+      <edge id="518" source="LEGION(RUBY)" target="HUSH" weight="5" />
+      <edge id="519" source="LEGION(RUBY)" target="PUPPY" weight="5" />
+      <edge id="520" source="OCELOT" target="MARINA" weight="5" />
+      <edge id="521" source="OCELOT" target="PINWALE" weight="5" />
+      <edge id="522" source="2.0" target="STRAITBIZARRE" weight="5" />
+      <edge id="523" source="COBALTFALCON" target="OAKSTAR" weight="10" />
+      <edge id="524" source="PROTOSS" target="ANTO LP PROTOSS GUI" weight="5" />
+      <edge id="525" source="OAKSTAR" target="YACHTSHOP" weight="10" />
+      <edge id="526" source="OAKSTAR" target="ORANGEBLOSSOM" weight="10" />
+      <edge id="527" source="OAKSTAR" target="ORANGECRUSH" weight="10" />
+      <edge id="528" source="OAKSTAR" target="MONKEYROCKET" weight="10" />
+      <edge id="529" source="OAKSTAR" target="MARINA" weight="5" />
+      <edge id="530" source="OAKSTAR" target="STEELKNIGHT" weight="5" />
+      <edge id="531" source="PIEDMONT" target="BULLRUN" weight="10" />
+      <edge id="532" source="SUTURESAILOR" target="HOWLERMONKEY" weight="10" />
+      <edge id="533" source="QIM/JMSQ" target="on" weight="5" />
+      <edge id="534" source="QIM/JMSQ" target="IRATEMONK" weight="5" />
+      <edge id="535" source="c" target="c" weight="10" />
+      <edge id="536" source="c" target="e" weight="42" />
+      <edge id="537" source="c" target="d" weight="6" />
+      <edge id="538" source="c" target="f" weight="1" />
+      <edge id="539" source="c" target="i" weight="3" />
+      <edge id="540" source="c" target="m" weight="4" />
+      <edge id="541" source="c" target="o" weight="26" />
+      <edge id="542" source="c" target="s" weight="16" />
+      <edge id="543" source="c" target="u" weight="1" />
+      <edge id="544" source="c" target="t" weight="69" />
+      <edge id="545" source="c" target="y" weight="1" />
+      <edge id="546" source="f" target="e" weight="4" />
+      <edge id="547" source="f" target="d" weight="1" />
+      <edge id="548" source="f" target="o" weight="3" />
+      <edge id="549" source="f" target="s" weight="3" />
+      <edge id="550" source="f" target="t" weight="5" />
+      <edge id="551" source="s" target="e" weight="23" />
+      <edge id="552" source="s" target="d" weight="6" />
+      <edge id="553" source="s" target="o" weight="14" />
+      <edge id="554" source="s" target="s" weight="5" />
+      <edge id="555" source="s" target="t" weight="20" />
+      <edge id="556" source="context" target="MULLENIZE" weight="5" />
+      <edge id="557" source="context" target="FUNNELOUT" weight="5" />
+      <edge id="558" source="FRIEZERAMP" target="TOTEGHOSTLY" weight="5" />
+      <edge id="559" source="COMMONDEER" target="QUANTUMNATION" weight="5" />
+      <edge id="560" source="ARTEMIS" target="ENTOURAGE" weight="5" />
+      <edge id="561" source="STELLARWIND" target="BLARNEY" weight="5" />
+      <edge id="562" source="QUANTUM" target="QUANTUMCOOKIE" weight="10" />
+      <edge id="563" source="QUANTUM" target="QFIRE" weight="5" />
+      <edge id="564" source="QUANTUM" target="QUANTUM INSERT" weight="5" />
+      <edge id="565" source="QUANTUM" target="INSERT" weight="5" />
+      <edge id="566" source="QUANTUM" target="QUANTUMNATION" weight="10" />
+      <edge id="567" source="QUANTUM" target="QUANTUM" weight="5" />
+      <edge id="568" source="QUANTUM" target="QUANTUMTHEORY" weight="10" />
+      <edge id="569" source="ERRONEOUSINGENUITY" target="EGOTISTICALGIRAFFE" weight="10" />
+      <edge id="570" source="ERRONEOUSINGENUITY" target="EGOTISTICALGOAT" weight="10" />
+      <edge id="571" source="EGOTISTICALGOAT" target="EGOTISTICALGIRAFFE" weight="10" />
+      <edge id="572" source="HOWLERMONKEY" target="YELLOWPIN" weight="10" />
+      <edge id="573" source="HOWLERMONKEY" target="SPECULATION" weight="5" />
+      <edge id="574" source="ONIONBREATH" target="GCHQ" weight="5" />
+      <edge id="575" source="COTTONMOUTH-I" target="STRAITBIZARRE" weight="5" />
+      <edge id="576" source="in" target="MULLENIZE" weight="5" />
+      <edge id="577" source="in" target="FUNNELOUT" weight="5" />
+      <edge id="578" source="FUNNELOUT" target="of" weight="5" />
+      <edge id="579" source="II" target="TRINITY" weight="5" />
+      <edge id="580" source="II" target="JUNIORMINT" weight="10" />
+      <edge id="581" source="STRAITBIZARRE" target="TOTEGHOSTLY" weight="10" />
+      <edge id="582" source="STRAITBIZARRE" target="IRATEMONK" weight="5" />
+      <edge id="583" source="STRAITBIZARRE" target="CDRDIODE" weight="5" />
+      <edge id="584" source="i" target="e" weight="5" />
+      <edge id="585" source="i" target="m" weight="2" />
+      <edge id="586" source="i" target="o" weight="2" />
+      <edge id="587" source="i" target="u" weight="1" />
+      <edge id="588" source="i" target="t" weight="3" />
+      <edge id="589" source="i" target="y" weight="1" />
+      <edge id="590" source="i" target="]" weight="2" />
+      <edge id="591" source="ANGRYNEIGHBOR" target="SURLYSPAWN" weight="10" />
+      <edge id="592" source="ANGRYNEIGHBOR" target="RAGEMASTER" weight="5" />
+      <edge id="593" source="ANGRYNEIGHBOR" target="NIGHTWATCH" weight="5" />
+      <edge id="594" source="BULLRUN" target="AMBULANT" weight="10" />
+      <edge id="595" source="BULLRUN" target="PAINTEDEAGLE" weight="10" />
+      <edge id="596" source="BULLRUN" target="PAWLEYS" weight="10" />
+      <edge id="597" source="y" target="e" weight="3" />
+      <edge id="598" source="y" target="d" weight="1" />
+      <edge id="599" source="y" target="o" weight="2" />
+      <edge id="600" source="y" target="t" weight="1" />
+      <edge id="601" source="y" target="]" weight="2" />
+      <edge id="602" source="MONKEYCALENDAR" target="GOPHERSET" weight="5" />
+      <edge id="603" source="SEASONMOTH" target="QUANTUMTHEORY" weight="5" />
+      <edge id="604" source="TRINITY" target="JUNIORMINT" weight="10" />
+      <edge id="605" source="MULLENIZE" target="unmasking" weight="5" />
+      <edge id="606" source="MULLENIZE" target="of" weight="5" />
+      <edge id="607" source="RAGEMASTER" target="VIEWPLATE" weight="5" />
+      <edge id="608" source="RAGEMASTER" target="NIGHTWATCH" weight="5" />
+      <edge id="609" source="TURBINE" target="QFIRE" weight="5" />
+      <edge id="610" source="TURBINE" target="TURMOIL" weight="5" />
+      <edge id="611" source="d" target="e" weight="12" />
+      <edge id="612" source="d" target="o" weight="5" />
+      <edge id="613" source="d" target="t" weight="9" />
+      <edge id="614" source="t" target="e" weight="67" />
+      <edge id="615" source="t" target="m" weight="8" />
+      <edge id="616" source="t" target="o" weight="39" />
+      <edge id="617" source="t" target="u" weight="1" />
+      <edge id="618" source="t" target="t" weight="42" />
+      <edge id="619" source="CDRDIODE" target="IRATEMONK" weight="5" />
+      <edge id="620" source="ENTOURAGE" target="HOLLOWPOINT" weight="5" />
+      <edge id="621" source="o" target="]" weight="2" />
+      <edge id="622" source="o" target="e" weight="31" />
+      <edge id="623" source="o" target="m" weight="6" />
+      <edge id="624" source="o" target="o" weight="1" />
+      <edge id="625" source="o" target="u" weight="2" />
+      <edge id="626" source="CTX4000" target="NIGHTWATCH" weight="5" />
+      <edge id="627" source="VIEWPLATE" target="NIGHTWATCH" weight="5" />
+      <edge id="628" source="]" target="e" weight="2" />
+      <edge id="629" source="]" target="]" weight="1" />
+      <edge id="630" source="QFIRE" target="TURMOIL" weight="5" />
+      <edge id="631" source="e" target="e" weight="11" />
+      <edge id="632" source="e" target="m" weight="4" />
+      <edge id="633" source="e" target="u" weight="2" />
+      <edge id="634" source="m" target="m" weight="2" />
+      <edge id="635" source="MARINA" target="YACHTSHOP" weight="5" />
+    </edges>
+  </graph>
+</gexf>
